@@ -1,4849 +1,1156 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "deck_id": "a1-2",
   "deck_name": "A1.2",
-  "cards": [
+  "notes": [
     {
-      "id": "sha256:0222cb4387ad64b49c1369ecb631a8e9639afd38242fba153c6d22f9fa359908",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "This house is ugly."
-        },
-        {
-          "name": "Back",
-          "value": "Cette maison est laide."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:037cbc8285b5aedf3b87a96ec49986c62563f3f6b2cc9b0a7fbe02430e506a09",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "l'appartement (m)"
-        },
-        {
-          "name": "Back",
-          "value": "apartment"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:05705e57ef4388b27e01a831d669279ef8b92f321266909eca70d82e7656b74f",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "rose"
-        },
-        {
-          "name": "Back",
-          "value": "pink"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:05cba05d81f91ea2e78c051bee8e12749313658eab75af450303574a9e8fd7c9",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Le meuble est dans la chambre."
-        },
-        {
-          "name": "Back",
-          "value": "The piece of furniture is in the bedroom."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:06b31bafac4cc72a1c3c0115b5b3585323805a6b63b6081b694c810ff75cec8a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le garage"
-        },
-        {
-          "name": "Back",
-          "value": "garage"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:072e283116032dea47bd96e87e7d5ae8da69e5b7196442a809b8c5a6da364074",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le mur"
-        },
-        {
-          "name": "Back",
-          "value": "wall"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:07bb014ec0ef2062e3d42e567829b590b0e51448ab162f5dc51f9f3413e47271",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "violet / violette"
-        },
-        {
-          "name": "Back",
-          "value": "purple"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:09224e0ae9cacbb37fec8cb2f331b1956ef5bbd89e01964972eb7c7b905821d8",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je regarde la télévision le soir."
-        },
-        {
-          "name": "Back",
-          "value": "I watch television in the evening."
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:0977cb3b26690df609e4caa5e7af965632b874668ff0e15c6f7bd8fc68408771",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "l'après-midi"
-        },
-        {
-          "name": "Back",
-          "value": "afternoon"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:09dfdc4ff330192f0a20a09382e2a10662d7fdf3d6e0ce66fa4be30b314308dd",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le déjeuner"
-        },
-        {
-          "name": "Back",
-          "value": "lunch"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:0a396e5cc75a98254fc25a7b253231a6c9690c02ad45d97fc0f03cbe6b263033",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "souvent"
-        },
-        {
-          "name": "Back",
-          "value": "often"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:0ac729e5a71ceaab3a5d3eeb4d35602704f5c6386224bc63a7abc650ca8a76f5",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Cette pièce est sombre."
-        },
-        {
-          "name": "Back",
-          "value": "This room is dark."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:0b166e13cca14b2eda2c759cac32fda308e4e4387b2f87b97a38994f1a645e23",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "<div><em>Nous partageons une pizza.</em></div>\n<div></div>"
-        },
-        {
-          "name": "Back",
-          "value": "We're sharing a pizza."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:0b24da97de690d8e2fd0eb772edce581cfb168fb9d1d383d2c6573b662266e2a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le salon"
-        },
-        {
-          "name": "Back",
-          "value": "living room"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:0b66f93e5fcffec2a1668bf7d5f5bf8d66c9c7f773e6f58f98c26f96e1a2b55b",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "l'étage (m)"
-        },
-        {
-          "name": "Back",
-          "value": "floor"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:0f3a466dea26488319f86a44694d7caa905bbd82ec8db9eb43d0fb910f0f802b",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Ce film est nul. Cette idée est nulle."
-        },
-        {
-          "name": "Back",
-          "value": "This movie is bad. This idea is bad."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:10ff96691c4a11554a283b90d2a65bb569ad07dfa75b04d36ec53b57912259d6",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "cuisiner"
-        },
-        {
-          "name": "Back",
-          "value": "to cook"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:116a64defb2242f731acb91b62f5c8bf45a755deb457ff1ca2f55fb527c88628",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le canapé"
-        },
-        {
-          "name": "Back",
-          "value": "couch"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:12e3f717c2d73852ed73993cd09d9fedd6e088b01339f6421b91f30aec8c13ac",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je vais souvent au parc."
-        },
-        {
-          "name": "Back",
-          "value": "I often go to the park."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:13ed0e3f369ac1a4710d4ca0fe5c4e09a698bf678644b98d4eee01cc928ae935",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "triste"
-        },
-        {
-          "name": "Back",
-          "value": "sad"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:1456d8c82c001dc2db1f5b96d7d68429edbadda65b46e64f304e776931bb3153",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Ce chemin est dangereux."
-        },
-        {
-          "name": "Back",
-          "value": "This path is dangerous."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:14b7fe8e2198f7b870ff7cc75bcf77795397537add7365f4ea5c8dccf0b18bca",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je suis occupé. Je suis occupée."
-        },
-        {
-          "name": "Back",
-          "value": "I am busy. I am busy."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:150fa3a7cdacc8d381a9e46716d63c44555d5e6e7c3118fe8c7e09df07b573f4",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "l'escalier (m)"
-        },
-        {
-          "name": "Back",
-          "value": "stairs"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:1600d5354b8b104c3d1a824bbe8eae99231af4c0a524de67fa7d2bd12baf81f0",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le salon"
-        },
-        {
-          "name": "Back",
-          "value": "living room"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:16a95efad40a46405bfcde4ea1ef668c70836de687abc760d95917e7dcbb7bbe",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je fais du sport mercredi."
-        },
-        {
-          "name": "Back",
-          "value": "I exercise on Wednesday."
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:16c573fd04bcc5c7c81b91f88ad3fd913acb19e379b8dec67e4f7630832a3d31",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je bois du café sans sucre."
-        },
-        {
-          "name": "Back",
-          "value": "I drink coffee without sugar."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:1795559ea055bd44bb4811d499da231379e3edb096d676347b35aebf03d76531",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je me repose après le travail."
-        },
-        {
-          "name": "Back",
-          "value": "I’m resting after work. (root?)"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:189a296f57ddce6f0dcbbc1c1fed2e2f87d8a8a226641f6ce5dfd6a44969ab90",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la cuisine"
-        },
-        {
-          "name": "Back",
-          "value": "kitchen"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:1c725331cbf2dad89305ed79f6680ee69d85ba90b95621dc653794e38fd37236",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la douche"
-        },
-        {
-          "name": "Back",
-          "value": "shower"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:1d44070bd034329cd766a5e8d764f47b9cd972349fa45c0e4c3c0c1d7fe7e5be",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "nul / nulle"
-        },
-        {
-          "name": "Back",
-          "value": "bad"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:1ed5b495256a4f7730c92f9d50b6ab5271a7de91e23a33e7034239d5aa5a2eb9",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Cette pièce est sombre."
-        },
-        {
-          "name": "Back",
-          "value": "This room is dark."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:1f48547de52f1cfba8c5d412672b356dbb21fb81d13d0293b32cc7d90e74d9f3",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "bleu / bleue"
-        },
-        {
-          "name": "Back",
-          "value": "blue"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:1f9fafd1e9b4bf90c9333a53f463b9dfc1f2edbd3781371fd3b2130ebb925b14",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "étudier"
-        },
-        {
-          "name": "Back",
-          "value": "to study"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:21774dbac310164533384f44bfede97cf034e4e7693e896c20bd6dde2cefb6e0",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Ce chemin est dangereux."
-        },
-        {
-          "name": "Back",
-          "value": "This path is dangerous."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:2478428b26b5f8dae893d5e309da2d21564a475939192a2d0f286dafa69b56c9",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "mieux"
-        },
-        {
-          "name": "Back",
-          "value": "better"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:24a6e79f53af0b05c03044df402c22281f5dd65b069de75cd2ff50d08d374461",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la journée"
-        },
-        {
-          "name": "Back",
-          "value": "day, daytime"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:2569b78eefff4ecfd2be7f630d9d317250243af720599f3966f3ac5907ca2dc5",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "orange"
-        },
-        {
-          "name": "Back",
-          "value": "orange"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:259e859b1146ba1fb5a79c7083113e724fdde45f9cf26fb2b970d6b2ddfbcd0d",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le petit déjeuner"
-        },
-        {
-          "name": "Back",
-          "value": "breakfast"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:26f24ae042945169c6cc95952fc28674b1dbbc0408fcd0af102b54e7ef83851d",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la chambre"
-        },
-        {
-          "name": "Back",
-          "value": "bedroom"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:271efe016b914e2b42744fd6077d0367dc0d9b868ea0f62ab690e618655c5517",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "mieux"
-        },
-        {
-          "name": "Back",
-          "value": "better"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:276a0140cc696dbcb9daadbc75289b7c6dda284132df7c370eaf4f9c34333fc0",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la douche"
-        },
-        {
-          "name": "Back",
-          "value": "shower"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:2890053153a6aafe9325683466cf5d59f7bcc83ecc249409cbf62d88402c9134",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "vert / verte"
-        },
-        {
-          "name": "Back",
-          "value": "green"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:2a2e36423664160b13d13a24808826c5e093cb937e964b540488e536d832273a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "rose"
-        },
-        {
-          "name": "Back",
-          "value": "pink"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:2ab247052bf322e6058518e6c13f3102f520e204fef23e2bb64006905c307285",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "il est&nbsp;désolé, elle est&nbsp;désolée"
-        },
-        {
-          "name": "Back",
-          "value": "he is sorry, she is sorry"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:2b7f8456532962edf9bd22fb0135e6dd3e99ecc8e97ea2bf38f90befd677d2ef",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Ce film est drôle."
-        },
-        {
-          "name": "Back",
-          "value": "<em>This movie is funny.</em>"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:2c1bf9e69950e54d2b7f5ba0ff836ae047efc4d7e55150c01f191c7ac177d84f",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "C’est le dernier train."
-        },
-        {
-          "name": "Back",
-          "value": "It’s the last train."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:2c79946ab2acd7a81ea5cc8d3663ab38c98310649450b7d5ec37c828e70afc4b",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "sombre"
-        },
-        {
-          "name": "Back",
-          "value": "dark"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:2c80658f33ff0ed92b09b042029e4664f300eaac6172a39d051c1fd3e846613b",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "C’est un film génial."
-        },
-        {
-          "name": "Back",
-          "value": "<em>It’s a great movie.</em>"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:30669e2c2208c4630b5e70c75406f0d7cabc0bab2a163ca9bbaf31ae72d5de7a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je prends le déjeuner avec mes collègues."
-        },
-        {
-          "name": "Back",
-          "value": "I have lunch with my coworkers."
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:32041ba9a8ed2caf87587d5431b79ac5411bb41f1dbfc043676bf7a05ccf3571",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je suis triste aujourd'hui."
-        },
-        {
-          "name": "Back",
-          "value": "I am sad today."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:32841171eb5098970ae5206657533740b02d91f8746d1eeeeabe2517e2e6f1a4",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le jardin"
-        },
-        {
-          "name": "Back",
-          "value": "garden"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:3339b0f71611991b7a6c02d6bbbb3bc8cb46da92da88e9b705a6f0c983a59af6",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "environ"
-        },
-        {
-          "name": "Back",
-          "value": "approximately"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:33e82e7d70bb75a613e20685e1e1f708dca58ef96ac9e81e58036ce8ccdf8d13",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la maison"
-        },
-        {
-          "name": "Back",
-          "value": "house"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:34dacb30154a58dab49520c6976196aa070bf6afdbc077e63f7ea531b93c6cc0",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Elle est très zen aujourd'hui."
-        },
-        {
-          "name": "Back",
-          "value": "She is very calm today."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:37007f8fa6240ee2ee4b8f44d0cf2518e594b9bcd0ea7ce9fd007b730c46f0fa",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je bois du café le matin."
-        },
-        {
-          "name": "Back",
-          "value": "I drink coffee in the morning."
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:3701e6659f336211aaf6230b2ccdc3c4be31768bd497d5517d1743d94daa6da1",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le bureau"
-        },
-        {
-          "name": "Back",
-          "value": "office"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:37ba2e152477a23e196cff2bf0809d5a0103ddd3f200fec06f091f63ef2c7878",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "dormir"
-        },
-        {
-          "name": "Back",
-          "value": "to sleep"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:38ee471cfe390a71f1088c39cac9bd17c573deda24f5bd9e449c55961ec9afc9",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le petit déjeuner"
-        },
-        {
-          "name": "Back",
-          "value": "breakfast"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:3b99b17bdb465278ce4bffde7469310ea0d2b289016d986fb459c12f8e3f6f3c",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le bureau"
-        },
-        {
-          "name": "Back",
-          "value": "office"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:3bfa695fa0f5147f752fcf996e673eb5e1d42fd90704d28438085a33148995a6",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "spacieux / spacieuse"
-        },
-        {
-          "name": "Back",
-          "value": "spacious"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:3da390b4289fc276e5c4ae3db58f3fb160ba8458adfc347170bb2d3afca56df6",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la cuisinière"
-        },
-        {
-          "name": "Back",
-          "value": "stove"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:3e3c463ee328c03bd75d7d71404a11dc74496d214e7a17e34096862b20ec8b5a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "<div><em>Ce café est très accueillant.</em></div>\n<div></div>"
-        },
-        {
-          "name": "Back",
-          "value": "This café is very welcoming."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:3e59dd58f6e34959ce84bbf0f82e506cf1b01448b5cf3c446aac29c364c2b844",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "bruyant"
-        },
-        {
-          "name": "Back",
-          "value": "noisy"
-        }
-      ],
+      "id": "sha256:006d78deba94e95e3ad9bf71cf2b4ce30f6c20750ad9a77aa8fc1db80033c6f4",
+      "front": "Le restaurant est très bruyant.",
+      "back": "The restaurant is very noisy.",
+      "reverse": true,
       "tags": [
         "TestTag"
       ]
     },
     {
-      "id": "sha256:3f1d79ac877cf5a082522538b1cd8aeb0d2b87fed8c47845825cc16de76f0e8e",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la cuisine"
-        },
-        {
-          "name": "Back",
-          "value": "kitchen"
-        }
-      ],
+      "id": "sha256:02f9b618b23ce55794a93ed2d94a728b89d700a501bed2b031ce8a9c5e702d0e",
+      "front": "Je vais souvent au parc.",
+      "back": "I often go to the park.",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:3f9302b33e332d386f179db3d1f0cb43cb8fe4a356c2c09ade35c8a7b02b213b",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je vais souvent au parc."
-        },
-        {
-          "name": "Back",
-          "value": "I often go to the park."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:416d502d9404e248bf00b887b83d4c31a3bbbb1d3a6fe24c59ba4f13b5f944eb",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "dimanche"
-        },
-        {
-          "name": "Back",
-          "value": "Sunday"
-        }
-      ],
+      "id": "sha256:04f1b8e776a620ec2acdca5b9a23a035395a1c7d48e89e0164577a8285178b33",
+      "front": "Je vais au cinéma vendredi.",
+      "back": "I go to the movie theater on Friday.",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:42f728191841a566c2cc3a78442ac61100a95f3f47684eb8d4aa2c0709f9ea20",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "jeudi"
-        },
-        {
-          "name": "Back",
-          "value": "Thursday"
-        }
-      ],
+      "id": "sha256:05231fecd57e20f8ffb3b15837ce0f011ec87aa418a0001290871c54c5c8b61a",
+      "front": "Ce film est drôle.",
+      "back": "<em>This movie is funny.</em>",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:0531ec17bd8ef04129f55755f4fc7f89d75054dbf43706247bce532734a1993b",
+      "front": "vendredi",
+      "back": "Friday",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:42fc050a5ed0c1c6613cc9594b786a87d5710bdf89129a90ccbd3856b8f74248",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "cuisiner"
-        },
-        {
-          "name": "Back",
-          "value": "to cook"
-        }
-      ],
+      "id": "sha256:083db20446d440f2d638070cfafce6199af22ff25af79af3451b6589a7096580",
+      "front": "Elle est très zen aujourd'hui.",
+      "back": "She is very calm today.",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:434a3f36ab92bf343c7cac0babe0b56378c2431c9608010bdad203e28f9debb3",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le midi"
-        },
-        {
-          "name": "Back",
-          "value": "noon"
-        }
-      ],
+      "id": "sha256:0a6ea74505ca1c4980d9809c0db8af94da31d52cfae2d8d648acae2b634e2448",
+      "front": "<div>C'est une idée géniale.</div>\n<div></div>",
+      "back": "It’s a great idea.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:0accd55b775a4812fe43359e480af3a2d381d4af8240453502889975dd851b31",
+      "front": "spacieux / spacieuse",
+      "back": "spacious",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:0b86315b45a6825983c69d2816a870ef0cf7e9545adc545e5a9a0c0df68c69dd",
+      "front": "sans",
+      "back": "without",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:0d365b6cfb563346b081462b03da309af958fa940f8dcfda310b8769c7b536ec",
+      "front": "occupé / occupée",
+      "back": "busy",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:0ee40a51ab78333fea61a554cefb58a0a5ef431e84fee7ea622733e5971010d8",
+      "front": "rose",
+      "back": "pink",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:0f490daf3f7fc7bb5adb21816717b425dc7372774dc6a2128ebb04fe2f781319",
+      "front": "Le meuble est dans la chambre.",
+      "back": "The piece of furniture is in the bedroom.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:132e3374f2da807a0ba223a19bbe151bb21c345917b8094da115700f3e978a56",
+      "front": "jaune",
+      "back": "yellow",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:158223df5fc31b969d69bcd50b1da11658503ce67dedfcdda7d064dc1954bffe",
+      "front": "le frigo",
+      "back": "frige",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:16603311d112005af697dfaf64917de24cd4cf6f729ab29235e06f0e750116a7",
+      "front": "la piscine",
+      "back": "swimming pool",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:17b501be4dafda214babcbe21a30224ef96ed2a303fb1ac553902a1c568c73e6",
+      "front": "en haut",
+      "back": "at the top",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:19f222a25b9656b20e025be87239e3514d3e37f4e652bdb69a4ae1b92dd49c15",
+      "front": "Cette route est dangereuse",
+      "back": "This road is dangerous.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:1e319f80ab79fbda36e5c0123424aa364151b874f44c08f9e686b5fde2e8870b",
+      "front": "J'ai un cours de français mardi.",
+      "back": "I have a French class on Tuesday.",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:44ede9acd98dbc373c33bee0f5a55ce71838cb0bb2373ebc8948e3f1cd1ff56d",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je travaille jeudi."
-        },
-        {
-          "name": "Back",
-          "value": "I work on Thursday."
-        }
-      ],
+      "id": "sha256:254f8eb0e42ef847dc8768eff5fdede0b77dcec94bfa5cb1d120303fd4d9ce31",
+      "front": "Je travaille lundi.",
+      "back": "I work on Monday.",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:45a3f5765ec101e996e1edc68d7b71570967dc7c53c474542c76228da578fd16",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "<div>C'est une idée géniale.</div>\n<div></div>"
-        },
-        {
-          "name": "Back",
-          "value": "It’s a great idea."
-        }
-      ],
+      "id": "sha256:28849369d2e89245360cc573b0b114e4926027c1c6cabfedfc19209063e46b54",
+      "front": "blanc / blanche",
+      "back": "white",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:46ac72bbaf4179b47c1d80a782f5a60eb4a289adc8769c9df3895df75efaabee",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le lit"
-        },
-        {
-          "name": "Back",
-          "value": "bed"
-        }
-      ],
+      "id": "sha256:2baabd93ea884689d60368701845d3e89b03b599696274af03b594024ce3ae2c",
+      "front": "le meuble",
+      "back": "piece of furniture",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:47e0dd6fa28dde0d3b43c50db75eb40463f52323cbe635325e9c0e8307a6ca7e",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je travaille toute la journée."
-        },
-        {
-          "name": "Back",
-          "value": "I work all day."
-        }
-      ],
+      "id": "sha256:33a9660d523b707d3ef7791dfe21c6f939dfb898572d8389d978111724aa3317",
+      "front": "le midi",
+      "back": "noon",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:47eae9c9f0dd1f0bf1823b671dc9f722ad4e894bdefc135fd800b24bf006237f",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "vendredi"
-        },
-        {
-          "name": "Back",
-          "value": "Friday"
-        }
-      ],
+      "id": "sha256:38a12eb20d98a5269c2902e2d13a32e9fcff67849657ff1fea1fa44bd9f326ca",
+      "front": "<div><em>Nous partageons une pizza.</em></div>\n<div></div>",
+      "back": "We're sharing a pizza.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:3a4d03bdcc14fc545042743846b2d929331d22e7f02a37e014802dbafe800100",
+      "front": "le salon",
+      "back": "living room",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:3fd026f4dbb7634b78a051fe89998913045c32425b879d56b13362c759770482",
+      "front": "le matin",
+      "back": "morning",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:4864f3003c9d283ea5ba2d28255b1973343f8a4d4eb16ab4b192c68ec01520f1",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "rouge"
-        },
-        {
-          "name": "Back",
-          "value": "red"
-        }
-      ],
+      "id": "sha256:41e50c9edf272546d890ba19388f89b4c987b4f469454f27eeb3c28477909f43",
+      "front": "la chaise",
+      "back": "chair",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:4a7ac49671445df5ab9628da5dfef2a6d641c07ca0e01b6fa85ac592bb68cc50",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je regarde la télévision le soir."
-        },
-        {
-          "name": "Back",
-          "value": "I watch television in the evening."
-        }
-      ],
+      "id": "sha256:441547cceb03f8afaa9e14119a176b8fbde90c19fed646adbcc7130b17b3dc2e",
+      "front": "Cette maison est très accueillante.",
+      "back": "This house is very welcoming.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:498dfe046332c1ab21a0b51fe95a512939626a490b5cbbb58a7c7566e80eb729",
+      "front": "zen",
+      "back": "calm",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:4a6ed4d673084e003d93a2012bc93cdc255e9bb808163c27ee846c8487b052cc",
+      "front": "La chambre est en haut.",
+      "back": "The bedroom is at the top.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:4b90bc7a936e35e4fa51aa1abc29fa459c519134b6685ed6ab0263c75ada9a65",
+      "front": "Je visite ma famille dimanche.",
+      "back": "I visit my family on Sunday.",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:4bfd1157ee12fce9be9309545814fb885e225ed8664a7b5ef1814d9aaa1dd96c",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le chauffage"
-        },
-        {
-          "name": "Back",
-          "value": "heating"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:4bffbb6aedd6b539994756a3d3ec2e5d28ca65a21edf126aa2fd8776fcacae4c",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "orange"
-        },
-        {
-          "name": "Back",
-          "value": "orange"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:4e710b6be494755cbe2ca0b761a4c82ecf3077549713890d980641c9335ca013",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Il y a environ dix personnes ici."
-        },
-        {
-          "name": "Back",
-          "value": "There are about ten people here."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:4f5ae031118fa0e6818ce63d8f73e996b7288a1904beb0481bb3acf94ee4e51c",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "sombre"
-        },
-        {
-          "name": "Back",
-          "value": "dark"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:50061ab4b9a8d9694885cda5aac52aca0054b4731a94add43e720ab90a9a2c8a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Nous mangeons à midi."
-        },
-        {
-          "name": "Back",
-          "value": "We eat at noon."
-        }
-      ],
+      "id": "sha256:4e3fc442509cb9ba8b05ea3a725ec1d35f269185478e14e12782a90ce2fd1b47",
+      "front": "Je bois du café le matin.",
+      "back": "I drink coffee in the morning.",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:50393af8b0761647946017cb0864af5a6d38871ae4a8714f7b9c8a815394cc05",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "l'appartement (m)"
-        },
-        {
-          "name": "Back",
-          "value": "apartment"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:5160a666a052e0e2d5d0e01079b39e8940502cd49b9afa907a779448500bb9ef",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le mur"
-        },
-        {
-          "name": "Back",
-          "value": "wall"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:52016c9f527a18a4755aa5d9043ff099c150ed246366864399ba3bd92f9be16e",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le couloir"
-        },
-        {
-          "name": "Back",
-          "value": "hallway"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:524d86b4ff3a9f69ecec6a3a86274baafc74341075b939d70cc9e4b033a3457a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Cet appartement est très bruyant."
-        },
-        {
-          "name": "Back",
-          "value": "This apartment is very noisy."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:525d6c83f6ed4db94acc363a0a5a44f0e89017302ee973fff2a8c9e440612008",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "zen"
-        },
-        {
-          "name": "Back",
-          "value": "calm"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:53411f6036f817d69cef8915007bc315dda167e4e6203c9cd0bfa1eba5995750",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le lit"
-        },
-        {
-          "name": "Back",
-          "value": "bed"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:5709614576306a73fff8241a0fd8c061483a2aebf1d3c8189ba82141423800ae",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je fais du sport mercredi."
-        },
-        {
-          "name": "Back",
-          "value": "I exercise on Wednesday."
-        }
-      ],
+      "id": "sha256:4f4f6363e4d5fef6e41db90927fb884706c5a453a44dddef31c9779cff002717",
+      "front": "le soir",
+      "back": "evening",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:57bf6aafe95dbff7b293fef1f4a2d0eab5bcd025ef122213fbe4cf1dc9b63405",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "il est&nbsp;désolé, elle est&nbsp;désolée"
-        },
-        {
-          "name": "Back",
-          "value": "he is sorry, she is sorry"
-        }
-      ],
+      "id": "sha256:506a52506c8dd17b367445b67889d88517ac907d41c74192475b9783f9b8eee9",
+      "front": "Le parc est très calme.",
+      "back": "<em>The park is very calm / quiet.</em>",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:5a0410d65f4f470780896d2e65fedf698ffeb7203825065e19e39f0121f35b3f",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Nous prenons le dîner à huit heures."
-        },
-        {
-          "name": "Back",
-          "value": "We have dinner at eight o'clock."
-        }
-      ],
+      "id": "sha256:52bf8b19cdac3390fd08dd81435f4950764bf7d02c8f28ebfa592da9d2c8d7f0",
+      "front": "Nous mangeons à midi.",
+      "back": "We eat at noon.",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:5a34bba020ecf82f3f97511049db96b43ab7e3299a578fbbdb7fef041df6cbf6",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Nous prenons le dîner à huit heures."
-        },
-        {
-          "name": "Back",
-          "value": "We have dinner at eight o'clock."
-        }
-      ],
+      "id": "sha256:52c2fa419f880b2e332a2f234b665c0f41ea87dcaf41b28c5a7a6a78e02e6781",
+      "front": "le chauffage",
+      "back": "heating",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:5526afc0bb6d549aaecdf3a341a8d944f6472c1af07343c52629eddc68a32d54",
+      "front": "<div><em>Ce café est très accueillant.</em></div>\n<div></div>",
+      "back": "This café is very welcoming.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:554a2d2b5487a40ac1fb0dadf8a34a929b0670af5e2b5bd59c8ecd7b8944b396",
+      "front": "Je travaille toute la journée.",
+      "back": "I work all day.",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:5e45b8d5cf5626b1278a88a4e600277e007af6a92aea84914232cf26d5f366df",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je travaille lundi."
-        },
-        {
-          "name": "Back",
-          "value": "I work on Monday."
-        }
-      ],
+      "id": "sha256:5ee1f74e930e97f5cb8971e9449ea4e852a3fbfd4eced4e24daa5c7d96d4dfc8",
+      "front": "C’est le dernier train.",
+      "back": "It’s the last train.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:5fb877356b4de51faf229e118b97d6dafafc911a2eca228f96d1204e392d9e19",
+      "front": "Je fais du sport mercredi.",
+      "back": "I exercise on Wednesday.",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:5e5ef1104e51191d57d8b87653c7cf678fcb8b11fec8993f66726443ccefb1b3",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Nous mangeons à midi."
-        },
-        {
-          "name": "Back",
-          "value": "We eat at noon."
-        }
-      ],
+      "id": "sha256:625558a48b9ce83e800de2db1c6f4970802cd6443449feae82903996142722cc",
+      "front": "Ce chemin est dangereux.",
+      "back": "This path is dangerous.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:67ce5f181d901dc52f4750656ef1c733d52c042e1f751bf65669fd415a575a4f",
+      "front": "la bibliothèque",
+      "back": "library",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:69d8d757f98314b1e41e962f72e8ccfc360d0d8e48fd18b149beebbc5a3f1647",
+      "front": "samedi",
+      "back": "Saturday",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:5e8b6c191d2a2e10f5143bf18a7bf00b237eafa81acfce95a7c92f0a11a9442a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "occupé / occupée"
-        },
-        {
-          "name": "Back",
-          "value": "busy"
-        }
-      ],
+      "id": "sha256:6d6b0d1184051ed7cac3d3b7523ef81278bef6dab122dad1ff5dfe33f8fe2ac6",
+      "front": "Je suis occupé. Je suis occupée.",
+      "back": "I am busy. I am busy.",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:5fb4076c1defff9b0a43e5beecd781c034065f6cdd7c9748ab4fccdc117c3f29",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "samedi"
-        },
-        {
-          "name": "Back",
-          "value": "Saturday"
-        }
-      ],
+      "id": "sha256:72e29155943eac167658b85ca3d1e4cd27b755b145909deb4da5ef40be5cacc3",
+      "front": "vert / verte",
+      "back": "green",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:73b85ab78fcd387c8d438e997eb5a03e8014c4e8128f7c111366397cdab15032",
+      "front": "dormir",
+      "back": "to sleep",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:73c5e01bad7c9f97f25be6a88c7572adbfdb1aa79bf3ade7f16e2482be2bed3d",
+      "front": "la journée",
+      "back": "day, daytime",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:6077c7c2ae3523e6d272505bdc21230a34d734c21bc15ffcc3a277eec2c32601",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Le chat est en bas de l'escalier."
-        },
-        {
-          "name": "Back",
-          "value": "The cat is at the bottom of the stairs."
-        }
-      ],
+      "id": "sha256:73ff8597f41de384652b895f88f0fb640195d276c5851d938cb5f345b6601409",
+      "front": "dernière danse",
+      "back": "last dance",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:60c366cc8c7b6d29822cef00a7f3f5e3477f6d7aa0ebcfa191a00d855623e0de",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "C’est un film génial."
-        },
-        {
-          "name": "Back",
-          "value": "<em>It’s a great movie.</em>"
-        }
-      ],
+      "id": "sha256:7426303ea53e66290c7a23a5dfe738de6908b110561817b2b6428cbdf747cbe5",
+      "front": "bleu / bleue",
+      "back": "blue",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:617a3dde31702e68cc14e768d5138ff74dbb4b024cba013cd9e48ad9f93ed84f",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "dormir"
-        },
-        {
-          "name": "Back",
-          "value": "to sleep"
-        }
-      ],
+      "id": "sha256:751fe250bf6025cc2e14ee4d94dc3285acd4baca1a9a803c07f92fc3caa6f797",
+      "front": "marron",
+      "back": "brown",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:6184ddae5a1e0ab11a8a66b620fd0b8bf5eb1f7570eac992bedf499a8f2bd7f0",
-      "note_type": "Basic",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Cette rue est très bruyante."
-        },
-        {
-          "name": "Back",
-          "value": "<em>This street is very noisy.</em>"
-        }
-      ],
+      "id": "sha256:77b3e41e65d1ea14a1bcec588528434a17f2c9826f8dc889ff70bd474c2f99ed",
+      "front": "aménager",
+      "back": "to arrange",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:61bd73e7eb05657ece63bd258aa7b77b30759086592673614df382c802c337b7",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "J'ai un cours de français mardi."
-        },
-        {
-          "name": "Back",
-          "value": "I have a French class on Tuesday."
-        }
-      ],
+      "id": "sha256:783150a274241981dfc6d4602e035617c48f24ccb197a01766ed8fac03455582",
+      "front": "le canapé",
+      "back": "couch",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:790113c71c90dda785c0f88ff0ac10e281f3512d7885de817fe9b0a14a175967",
+      "front": "Je me repose après le travail.",
+      "back": "I’m resting after work. (root?)",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:7b5051375dc92b4b62b0c3b8c18661cb96c06c5cb2afe06bc37999c16fc3b460",
+      "front": "triste",
+      "back": "sad",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:7c891f5eb3c503a4b385d70437420243af037be139312e78b9ce690c0eb64955",
+      "front": "Il y a environ dix personnes ici.",
+      "back": "There are about ten people here.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:808bdc036cae07a4fbb243dbcd91eab05a6fe537717ac3e564f233c1de537335",
+      "front": "nul / nulle",
+      "back": "bad",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:8631fd0a92a71334043cf3d780e47b9c03b58e9d4c97512c48705b9e65114f48",
+      "front": "la véranda",
+      "back": "sun room",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:87ad020e3d40112dc2e66221266f0ff075feade7b2332b4706887bf5135e58f5",
+      "front": "la cuisine",
+      "back": "kitchen",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:8c47ee6821b5d8318f02887b0220bb98d4fb016bcb578837eba1b850aeceed2f",
+      "front": "C’est un film génial.",
+      "back": "<em>It’s a great movie.</em>",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:8f15deee2b74ce7d5c1913faeb1b101e85d43eb9c58b869712f2a597d32be94e",
+      "front": "le couloir",
+      "back": "hallway",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:90dd56bd19b4874c8dffa7015420e4bbfbd7571f25264d30df00b2ea822c66d4",
+      "front": "sombre",
+      "back": "dark",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:912517fcaa569272a070d91e9e7e690533c56047e4a308e00305a32874a85b09",
+      "front": "le fauteuil",
+      "back": "armchair",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:967b944578ab6e394389e11fea59aeb15f97f7f6b1012a99d09771b8ba3d64d7",
+      "front": "This house is ugly.",
+      "back": "Cette maison est laide.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:98c8707b5b31d11efbd5bc079e0b10c4f66c33607f96ad53c7cca55f1268a476",
+      "front": "le petit déjeuner",
+      "back": "breakfast",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:636be3c56be15336f087a540c9f4d6ce30dd0243fec85ea49bf6354c09707d1a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "triste"
-        },
-        {
-          "name": "Back",
-          "value": "sad"
-        }
-      ],
+      "id": "sha256:9bd6b65760bccd2193c7ac46c0e19c206c67d4d04e37abb3672af226fa57b2e0",
+      "front": "la table basse",
+      "back": "coffee table",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:63f22c18f45a1500c2ff6672a8df769f085d5bd9238826f60bc0445721d6ad70",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "zen"
-        },
-        {
-          "name": "Back",
-          "value": "calm"
-        }
-      ],
+      "id": "sha256:9c143682be2ed01b9c30d32fecb41bcb44ba2f5acaa7098a89d173c3c0186731",
+      "front": "étudier",
+      "back": "to study",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:6a932f5630d0e49773b174d5acfad2ff038cf7ba7d7530145f178bbb9f7d7fae",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "La chambre est en haut."
-        },
-        {
-          "name": "Back",
-          "value": "The bedroom is at the top."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:6ae865f0b1e46068faab5301361c3013b2124802de110b33390807ba9c3b452b",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la cuisinière"
-        },
-        {
-          "name": "Back",
-          "value": "stove"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:6be636d14fb1fed59079bfd6056e59eea8d0f6e806f7210c8773af000ef68310",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le dîner"
-        },
-        {
-          "name": "Back",
-          "value": "dinner"
-        }
-      ],
+      "id": "sha256:9c2f1ade8028f4bb9d00f71f628c732bdbd12d4b13777353f265b95491c84bbe",
+      "front": "Je travaille jeudi.",
+      "back": "I work on Thursday.",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:6c2930a29862479f511a5f4c4aca9efaa0a29445a0f26380fa56e5d4b83041ab",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je fais les courses samedi."
-        },
-        {
-          "name": "Back",
-          "value": "I go grocery shopping on Saturday."
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:6cceb3dd4f77caa33eeec593990c926d404d3f2b20b598434a6bdb26d6d1985b",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la bibliothèque"
-        },
-        {
-          "name": "Back",
-          "value": "library"
-        }
-      ],
+      "id": "sha256:9e8a5bf94a29c37a300ecd3c525db5805d26aecb93816de5cb46ac0f8f2bd674",
+      "front": "Cette pièce est sombre.",
+      "back": "This room is dark.",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:6defd97b092b9802f46b35181acb69c14b143108eab8186355f43ee5273aba66",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Le restaurant est très bruyant."
-        },
-        {
-          "name": "Back",
-          "value": "The restaurant is very noisy."
-        }
-      ],
+      "id": "sha256:9f9b9f122e1bf7057e3452681a9d0d5368b3fa3bbce7f05286cbccb1d4c0213a",
+      "front": "Mon appartement est spacieux. Ma maison est spacieuse.",
+      "back": "My apartment is spacious. My house is spacious.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:a2ea4aba7e638e363a01e7af12ec9768495681b6e5e3a4b3d90ddc71a587e314",
+      "front": "le jardin",
+      "back": "garden",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:a63de7c04e952b421d109e63bc7ac55a5be11704c7ddeed2f021fe0d1f435f01",
+      "front": "mieux",
+      "back": "better",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:a688b05061af5e39d49008a4d8cc784e4b83292802bfad120e1b9b2010cbc939",
+      "front": "Ce film est nul. Cette idée est nulle.",
+      "back": "This movie is bad. This idea is bad.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:a7d0f7a85ef076d92db1767a0b583931fc9a8f6fce6987d828546596862931b8",
+      "front": "Je regarde la télévision le soir.",
+      "back": "I watch television in the evening.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:a812fe735996cef726fad7f16079afc5b6b8e9960809acf6d763cc98494a6644",
+      "front": "l'escalier (m)",
+      "back": "stairs",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:a8267c427ee0ed45ee568c25d98f0e810969b2dc2a996db56d00a490c8ef5492",
+      "front": "l'appartement (m)",
+      "back": "apartment",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:a8e3822bd9ddfd324403ea09ad13e20eb432d4ba18f1e46b4dff3f7283e967f5",
+      "front": "Je fais les courses samedi.",
+      "back": "I go grocery shopping on Saturday.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:aa8aa1d08a994063326e058d8634f2c33c618a5cec744303f4ce43c7e45f87c5",
+      "front": "bruyant",
+      "back": "noisy",
+      "reverse": true,
       "tags": [
         "TestTag"
       ]
     },
     {
-      "id": "sha256:6e64ec6fe8a6d7166e71b7a6fc3be97e91a77c676e0802d574b090c1b3102aad",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "sans"
-        },
-        {
-          "name": "Back",
-          "value": "without"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:6ef1e325c1e3a529e5b13dc5f328103c6a43df1b92ef94e4dfa6a6a17130ff94",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "facilement"
-        },
-        {
-          "name": "Back",
-          "value": "easily"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:6f19967b5ef35771c94c86b99cd7dd8db7037227aafa1a07d80797435119ab25",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "La chambre est en haut."
-        },
-        {
-          "name": "Back",
-          "value": "The bedroom is at the top."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:6f40a4a2d84582b21aa4f31e5a77c1344263c6272144ba277240a4c5001f2839",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je prends le petit déjeuner à sept heures."
-        },
-        {
-          "name": "Back",
-          "value": "I have breakfast at seven o'clock."
-        }
-      ],
+      "id": "sha256:aabd31d6e3f81c827866cdc841b81d935f7cf4f93ab835b3774fb2929de00dc6",
+      "front": "le dîner",
+      "back": "dinner",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:71e41dc9119faca661b37e517a9d122cfafb7c61158c11250b06a6db6ae36d3e",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "l'après-midi"
-        },
-        {
-          "name": "Back",
-          "value": "afternoon"
-        }
-      ],
+      "id": "sha256:ab353849da706879f7223eb5599833702d50ad7915402ae0162ccf15cd08a339",
+      "front": "Je suis triste aujourd'hui.",
+      "back": "I am sad today.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:ae5333d13d2d4c8a531b63d8ca4373d35c17d25cd0cda433d19164341a2b3b64",
+      "front": "le garage",
+      "back": "garage",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:b0a4a846e89ba32030c2a035d09ce6d35ffda8d4f4f2e7d56e8d788f1bdd2a8f",
+      "front": "Le chat est en bas de l'escalier.",
+      "back": "The cat is at the bottom of the stairs.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:b0b26866d4941fb540f281e148bc180f12c1d307aba7d87b423c2d6a5089555d",
+      "front": "environ",
+      "back": "approximately",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:b0c49c771e1080ec867a0f9de4308d42b133800f6a8de14cc7e4ae2898f0d768",
+      "front": "la fenêtre",
+      "back": "window",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:b2dc2298ed5229483ca85cc90d9b79d17466f262709878feafb8e24f87794196",
+      "front": "Elle parle mieux français maintenant.",
+      "back": "She speaks French better now.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:b97a4366c921c5376cca6457d3dbdf62f3253ffcd584240ac41e666536195887",
+      "front": "Nous prenons le dîner à huit heures.",
+      "back": "We have dinner at eight o'clock.",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:72056c1e82f057c40a049b3b1466b890fce180f47750ef75d9ad60a43983fc6d",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la table basse"
-        },
-        {
-          "name": "Back",
-          "value": "coffee table"
-        }
-      ],
+      "id": "sha256:bab8bed831bba0591e8ec08909b27065964e50c4546769d936028dfb93c18bd1",
+      "front": "Cet appartement est très bruyant.",
+      "back": "This apartment is very noisy.",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:721302bb77a0dfeeaab9b0548e9d6415c804baee35464eb41c7f1e415b3a0c79",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "noir / noire"
-        },
-        {
-          "name": "Back",
-          "value": "black"
-        }
-      ],
+      "id": "sha256:c00b4851cd7c7a78b1e19f4239ccda1cf45de46f59de5f7c6863094e407dc7d7",
+      "front": "<div><em>C’est une femme joyeuse.</em></div>\n<div></div>",
+      "back": "She is a happy woman.",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:73296f1f2c0396035902371b49bf42e3d388e6d9b2d27a5cafca3144937b9f0e",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "rouge"
-        },
-        {
-          "name": "Back",
-          "value": "red"
-        }
-      ],
+      "id": "sha256:c0dbd33299aa4daed8a6e8bd97f100802c73de219439dcc13d7981410c01e51d",
+      "front": "Je monte l'escalier.",
+      "back": "I'm going up the stairs.",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:73462fe4f10285b532e589b8991a5edcea91056e3fd2beda073ed5223b9566ca",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le dîner"
-        },
-        {
-          "name": "Back",
-          "value": "dinner"
-        }
-      ],
+      "id": "sha256:c12c15e31de3c6570557d7c791f177f8787f3128f2b69d84ae35e0b338e33196",
+      "front": "le déjeuner",
+      "back": "lunch",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:74273e833b918569927df6eba58b95e76439d91c3f62ec6794766d7cb70fbc3d",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Ce film est nul. Cette idée est nulle."
-        },
-        {
-          "name": "Back",
-          "value": "This movie is bad. This idea is bad."
-        }
-      ],
+      "id": "sha256:c37f040366219a5f841d95fa5e2f7f53d7808d8481307eb4b15a1b323b0cb5c8",
+      "front": "le toit",
+      "back": "roof",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:758a5bc93c462762692f2403cfe13c86ff33b19fa820059820be18db07f108eb",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "en bas"
-        },
-        {
-          "name": "Back",
-          "value": "at the bottom"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:77ad15fbca0f687985e78dee8d7e3cc05566425f6d2ca6772ec6cc4282ecc8c9",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je comprends facilement cette règle."
-        },
-        {
-          "name": "Back",
-          "value": "I understand this rule easily."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:77ccc6086941fc345213ffee1159afbb0280798c7d7e61f7705b0652c8570fdd",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "C’est le dernier train."
-        },
-        {
-          "name": "Back",
-          "value": "It’s the last train."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:7a420488a1486a8d983e17afdfc429d6edbed0417fbdab5be49068891a413984",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Cette route est dangereuse"
-        },
-        {
-          "name": "Back",
-          "value": "This road is dangerous."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:7a7507c01c30e751fd9af64bcae753c21e8e406cee3b6ae16e910fda8a1d6eb0",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "louer"
-        },
-        {
-          "name": "Back",
-          "value": "to rent"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:7aaafcab2df85b22abd916d7d0e011ca010d74ff407b77b590b2585c09ae8d8a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la bibliothèque"
-        },
-        {
-          "name": "Back",
-          "value": "library"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:7d9b449f99ac8523f693f86839a72fe91a2ae0bf5cc1c38d62eb5730306b38ae",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le couloir"
-        },
-        {
-          "name": "Back",
-          "value": "hallway"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:7eb2748fb4af4a222ed93888b52c92f3a61abf7efe71e12de1eb94fb2d4139ec",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le meuble"
-        },
-        {
-          "name": "Back",
-          "value": "piece of furniture"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:7ed83152b9f90f54e5eb316227e3ad7e06af6e771b226764114137dc461213d7",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "l'escalier (m)"
-        },
-        {
-          "name": "Back",
-          "value": "stairs"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:81a817da2bd932e9154394e5d3a0b6419b572d2395722ca064f0df0a13275d12",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la fenêtre"
-        },
-        {
-          "name": "Back",
-          "value": "window"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:839d243d8cd71c4234ef42bc72f13ca8697c4caf3b65dac14a3acccab42ec563",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Elle parle mieux français maintenant."
-        },
-        {
-          "name": "Back",
-          "value": "She speaks French better now."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:845adfa30aad217354ce53b3b9f128544ac21a32d47be3d148d84e0289c7328e",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Mon appartement est spacieux. Ma maison est spacieuse."
-        },
-        {
-          "name": "Back",
-          "value": "My apartment is spacious. My house is spacious."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:85434989a992601ab793a1f97671c1f7e267214b249b551d7f9059c30fef6343",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "nul / nulle"
-        },
-        {
-          "name": "Back",
-          "value": "bad"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:8799fa39abf45fc87bffcaee337a87e7490bda1e6942c0dfb382f0acaccba357",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je bois du café sans sucre."
-        },
-        {
-          "name": "Back",
-          "value": "I drink coffee without sugar."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:87be5d3110234f25afaa656f9a06274e9e317d43e5e95834efd730444fef4bba",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le fauteuil"
-        },
-        {
-          "name": "Back",
-          "value": "armchair"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:87d3e5c485cadadcfd2384d140879936d01db970c14578eb0f5dce07ff0dbde3",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Ce bâtiment est laid."
-        },
-        {
-          "name": "Back",
-          "value": "This building is ugly."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:89345ec145a9e7c57ca28c2909e18888d5fc89c6b59d0816bd5296140ccab42d",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Ce film est drôle."
-        },
-        {
-          "name": "Back",
-          "value": "<em>This movie is funny.</em>"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:8bb02b02636b0e3708a747b38785521c28e9db41294155b198c082e8125512b2",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "C’est un jour joyeux."
-        },
-        {
-          "name": "Back",
-          "value": "<em>It’s a happy day.</em>"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:8c5fc9c4326ed7ba1007ea9e98e0cc63124c5fb34e6e4b0eb56a8f77c312e2d3",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "favoriser"
-        },
-        {
-          "name": "Back",
-          "value": "to favour, promote"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:8fc3e26a219418cc986dfa1a6288d18b6a338bcee09758edabd1cb560c8f2897",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Cette route est dangereuse"
-        },
-        {
-          "name": "Back",
-          "value": "This road is dangerous."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:90650de7e9051ff4ce0d932f915a34ba47a667c62b5e1ae5e259e4607ba336f5",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Le parc est très calme."
-        },
-        {
-          "name": "Back",
-          "value": "<em>The park is very calm / quiet.</em>"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:919418cd43bc41e94b5015f49ddd1b4d4fe0dfa15f87d76013ae57ec45fa2903",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "dernière danse"
-        },
-        {
-          "name": "Back",
-          "value": "last dance"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:9516c4588746f9ce5771350158807be2b93b801e6c10dc6bc3aa6a1f9be9babf",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Cette maison est très accueillante."
-        },
-        {
-          "name": "Back",
-          "value": "This house is very welcoming."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:951ecb9162c0e5c72a6b022d662517b7dccc8dd466687300c6261eccef840c11",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la piscine"
-        },
-        {
-          "name": "Back",
-          "value": "swimming pool"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:958590ebe27207c2ebd0968195bf574f94c05fcb6d841eece8bca39f99579408",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "aménager"
-        },
-        {
-          "name": "Back",
-          "value": "to arrange"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:97639357bc1c7d1123119db32d9597f04876aa2fa148475f14399dd64e215214",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je monte l'escalier."
-        },
-        {
-          "name": "Back",
-          "value": "I'm going up the stairs."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:9a4351dc85b9e75957b32cbbc58c93abac17135641f498212afad8f722d1cc01",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "dernière danse"
-        },
-        {
-          "name": "Back",
-          "value": "last dance"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:9ba37764e3ddfabee3338dcc51202322da0fd746192d6434b3701f66c1ea1dcb",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la véranda"
-        },
-        {
-          "name": "Back",
-          "value": "sun room"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:9bdfa329894a853015b6a23b26fcf04a5607f7d02861b074b01927e3d57f6c82",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "aménager"
-        },
-        {
-          "name": "Back",
-          "value": "to arrange"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:9d1f4631bf548322be40201b548a727af8ff066da097db422472deeb39e755f7",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "en bas"
-        },
-        {
-          "name": "Back",
-          "value": "at the bottom"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:9d7b3dfc3007722b737906ca9bd568714e474afd3a9a15fd47c35ec98543cb49",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la chaise"
-        },
-        {
-          "name": "Back",
-          "value": "chair"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:9ff8a9d2d84196165ebd55ebe8c11b1a7767e401e14decf2a4f269dad142f803",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le garage"
-        },
-        {
-          "name": "Back",
-          "value": "garage"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:a1786c7299e42cf1e94001c68bcbe3b0d1b70c304770bf9d7aaabf6c575b57fe",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "<div><em>Ce café est très accueillant.</em></div>\n<div></div>"
-        },
-        {
-          "name": "Back",
-          "value": "This café is very welcoming."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:a27fa11a0304e2f77fcf685bc35af1676bd87ae4a08f0d7ca7f922c6f368b30a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le fauteuil"
-        },
-        {
-          "name": "Back",
-          "value": "armchair"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:a672a72bf81c3afa6fe3fce1c2852c69f91f046932f297dadf696d55cc123a56",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "<div>C'est une idée géniale.</div>\n<div></div>"
-        },
-        {
-          "name": "Back",
-          "value": "It’s a great idea."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:a6d2b7f59f37bbab60392aeb1900babd8f5f001cf5eaa826ccb8aa543f3c53fa",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "violet / violette"
-        },
-        {
-          "name": "Back",
-          "value": "purple"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:a78b79bb4d9445417220a24270d6e01de1a3aa8ec31fdcfae8e353fefa424e41",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je travaille toute la journée."
-        },
-        {
-          "name": "Back",
-          "value": "I work all day."
-        }
-      ],
+      "id": "sha256:c4ccc16bedb472604a1007b6497fed18e4b09487ecacca88875ff9af72407668",
+      "front": "l'après-midi",
+      "back": "afternoon",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:a82805d3ae6a7f396f25895672a1e4f389b282fee6429625b5c23e0df4f9c817",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je comprends facilement cette règle."
-        },
-        {
-          "name": "Back",
-          "value": "I understand this rule easily."
-        }
-      ],
+      "id": "sha256:c519d3c036b47cb396acaa4728bb991b71a4e334c314e9745bd56d229e77864f",
+      "front": "orange",
+      "back": "orange",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:a85f03b6b8c425ba75300bc126679a4e2ca8d0feaac2b1f26d6f991a976b3e82",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Mon appartement est spacieux. Ma maison est spacieuse."
-        },
-        {
-          "name": "Back",
-          "value": "My apartment is spacious. My house is spacious."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:a8800f81fa60a3e13ac1002f5315b551ed7b744cb61cf7b22ab3b73a98e2819e",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "vert / verte"
-        },
-        {
-          "name": "Back",
-          "value": "green"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:a8ac0df99a6b456d813bb6631e5b4ba09e446d1620920aad780bd0d596e4234e",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Le meuble est dans la chambre."
-        },
-        {
-          "name": "Back",
-          "value": "The piece of furniture is in the bedroom."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:aa0347ed112f3e53a03c755f987c84271998c055fb0468fabc15763b0ed230a7",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je place le livre sur la table."
-        },
-        {
-          "name": "Back",
-          "value": "I’m putting the book on the table."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:aaad92b004e900986945e863748be3a31f8573dd35be3e4b0ac449a070e5066a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je visite ma famille dimanche."
-        },
-        {
-          "name": "Back",
-          "value": "I visit my family on Sunday."
-        }
-      ],
+      "id": "sha256:c51e4297940ba284970f670083d50751a86e1a684ac2d4b73afd9d93c7a7178c",
+      "front": "jeudi",
+      "back": "Thursday",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:abe3ee35e4cdd170c5767bfcf10ca645197332cb15e938f09e19306fcaeff30c",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Elle parle mieux français maintenant."
-        },
-        {
-          "name": "Back",
-          "value": "She speaks French better now."
-        }
-      ],
+      "id": "sha256:c8a46d421adf29dd4eee975246a7e1facecedbde761a98cc9fb79ce15903bf66",
+      "front": "favoriser",
+      "back": "to favour, promote",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:acbe249fe9ab2bf971776a10bbf480af2bf5689609d0bef8213880bbda2b6ada",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je fais les courses samedi."
-        },
-        {
-          "name": "Back",
-          "value": "I go grocery shopping on Saturday."
-        }
-      ],
+      "id": "sha256:c93710469f5c3dfbb145d394258a7361a38420769b3060caf8c7ade3b957d0ee",
+      "front": "violet / violette",
+      "back": "purple",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:ca3fd98d58e73fb48a657be5dc8881f37fa9ab0fb95eec0341dc32c43af0ea9f",
+      "front": "Ce bâtiment est laid.",
+      "back": "This building is ugly.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:ccf5690e26aff71e529ec1a4892a401395495a251aaaea11f9083c007d6abf2d",
+      "front": "Je prends le petit déjeuner à sept heures.",
+      "back": "I have breakfast at seven o'clock.",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:ae23dede7c4fd57f3b032ea2349b853e9b718ca20178055b2fb3c25dac9c20fa",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "jeudi"
-        },
-        {
-          "name": "Back",
-          "value": "Thursday"
-        }
-      ],
+      "id": "sha256:ce884ca85b27be1d762213e0362bb1480f22a9fdf66fd4c4a9ed96754c879071",
+      "front": "mercredi",
+      "back": "Wednesday",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:ae72cc89a61fe893f556ea8a942cfd5934987a1b1beab533d881c2b24d998ece",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je visite ma famille dimanche."
-        },
-        {
-          "name": "Back",
-          "value": "I visit my family on Sunday."
-        }
-      ],
+      "id": "sha256:ceebf3546b3edfa712d51c9c9e022f21949fbf63756eec292f3fafc575d61b40",
+      "front": "Je paie l’addition.",
+      "back": "<em>I’m paying the bill.</em>",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:d3e29493b15ec42ee8a903c634b3ed83cca0aa20b3ed46643eaf8e0d4dd34286",
+      "front": "le bureau",
+      "back": "office",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:d51e810291e15b05412d8537ebbe0885a9a02a7cf8425d034caad2d70f649a55",
+      "front": "en bas",
+      "back": "at the bottom",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:d53944239db93403ae89b3cf4ab8de4f5b71b71fb7cb02624dc338accdd0695f",
+      "front": "Je bois du café sans sucre.",
+      "back": "I drink coffee without sugar.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:d656bf8b0bd97cc76dfda989aa2d967225f9b9d3ad63cd0a048f57c6e1795e33",
+      "front": "mardi",
+      "back": "Tuesday",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:ae8095728584b75d2c91010038542cad5e2b4691285e763ed27ea7f5e4405585",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Elles rangent leur chambre."
-        },
-        {
-          "name": "Back",
-          "value": "They're tidying their room."
-        }
-      ],
+      "id": "sha256:d8ef8c7c25126cccef1cdd08db871e8ff21cd5f6c35c9a52ce7b160ac6ed093b",
+      "front": "cuisiner",
+      "back": "to cook",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:afe6763df85b41a3d79eaa59b0c6a1d4caac480bffbedc3fccc1ec2bf115aacd",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le déjeuner"
-        },
-        {
-          "name": "Back",
-          "value": "lunch"
-        }
-      ],
+      "id": "sha256:da2ce754bf97fc23d830acd74a8c83bff32cfa95a5f9b37fdc15219b67cad199",
+      "front": "mettre",
+      "back": "to put",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:ddff3986df0d547a59daef861ea519c58986b862720adbbd60e8d837220682c8",
+      "front": "lundi",
+      "back": "Monday",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:b08cc4fc8fb24ac6f29afd07e81fdb4574e079603819cab65453c914a9431730",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Le parc est très calme."
-        },
-        {
-          "name": "Back",
-          "value": "<em>The park is very calm / quiet.</em>"
-        }
-      ],
+      "id": "sha256:de4c9a623f89c8c09dbb74b8c39931e49e5af191aef9269377d92fc100eccff0",
+      "front": "la cuisinière",
+      "back": "stove",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:b0d6e0155760cf6c0644721e369e73779ca9edf8bee93dc4394f5e68b116398c",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "dimanche"
-        },
-        {
-          "name": "Back",
-          "value": "Sunday"
-        }
-      ],
+      "id": "sha256:de9a6f57998fbea2701f1bbd66b6fdd671389d0deef37555731222cbf2a7d556",
+      "front": "Ce jus est naturel.",
+      "back": "This juice is natural.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:e0b47913b7668fb3d921a2771d7cb0b60f950871648755a25e46fd4996f55ffc",
+      "front": "souvent",
+      "back": "often",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:e16ba3f501fc125490ca000f7add80340d8ee6ea61f985aff92866d6ea6f1a34",
+      "front": "la chambre",
+      "back": "bedroom",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:e18c20fa35f52fb94e002c6fcdb9bed95e2280315219ce553c6a4dd1fc53270b",
+      "front": "Je place le livre sur la table.",
+      "back": "I’m putting the book on the table.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:e2f89fd8b66389f25342cf0c4387a39eb9e2a7b091317c7a3364ccf91ea8ae60",
+      "front": "le lit",
+      "back": "bed",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:e80c11a75a30d938c89d9439f1edaf094912a6a5b5674739c83fe51021517bdd",
+      "front": "Cette rue est très bruyante.",
+      "back": "<em>This street is very noisy.</em>",
+      "reverse": false,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:e8b0fb2b0809eb495920512e5e5c102225ee1b42165f1b28915267d686c38adb",
+      "front": "Elles rangent leur chambre.",
+      "back": "They're tidying their room.",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:e95947f95b5d0161e7a131a6fb2a6373c8b230387902f7bd20ed23bea0696f09",
+      "front": "facilement",
+      "back": "easily",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:ee4fe4bf8c83ec6f6a6d8d84be12c97fed8ff8e42baaed19653621c11a393116",
+      "front": "noir / noire",
+      "back": "black",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:ef684a4c3e2f712f6d1fe80841c4ed7455c56f67a28fbde68b6b693a19c5a8b0",
+      "front": "la maison",
+      "back": "house",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:f1003be9a48bb718c6631fdf1c3aac0f9a9ce54753ce6a3f47d1b3e29d3dc91a",
+      "front": "la douche",
+      "back": "shower",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:f21450fec8778e408082d08d8bba177aa1a21dbd778665452eac0e09b124f61b",
+      "front": "le mur",
+      "back": "wall",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:f427a163886d10d17c80d991dce55495eb55170932a400e0d022cbc35e519bed",
+      "front": "rouge",
+      "back": "red",
+      "reverse": true,
+      "tags": [
+        "Logement"
+      ]
+    },
+    {
+      "id": "sha256:f51adfc8cf540de6795388c51ae1a4c077693d372e4494391776b7014ed9e950",
+      "front": "Je prends le déjeuner avec mes collègues.",
+      "back": "I have lunch with my coworkers.",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:b2df3ea12393a705fd82d373bf8eb8b14771d7c4ae5f49eb882e7b7b0d532ba8",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la pièce"
-        },
-        {
-          "name": "Back",
-          "value": "room"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:b3a04173139637e9aca9aba1bf118e583167b04dfafd6ef81a84c57fe71c131f",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je travaille jeudi."
-        },
-        {
-          "name": "Back",
-          "value": "I work on Thursday."
-        }
-      ],
+      "id": "sha256:f906f7181e3d7d710e7cd20e6eb2e7c2c1b7d6782d5cd35a2aaa0e4a94a92cec",
+      "front": "Je fais du sport l'après-midi.",
+      "back": "I exercise in the afternoon.",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:b3ecec0292232f20da3a24d6d590ff81f146f52c6e80e271715bcc7d8a8b1c95",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Elle est très zen aujourd'hui."
-        },
-        {
-          "name": "Back",
-          "value": "She is very calm today."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:b7682d92f35722104a990a7d19517ef3a9a5ea2bb19af0e17012236b96e8143a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le canapé"
-        },
-        {
-          "name": "Back",
-          "value": "couch"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:b8397dc6673b4f98bc3e7b2a07f5a604d3a1b3ea440e56b743d3f1a254cb3692",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "J'ai un cours de français mardi."
-        },
-        {
-          "name": "Back",
-          "value": "I have a French class on Tuesday."
-        }
-      ],
+      "id": "sha256:f910c1c5c6176b26f7c05d4bd7e45fc37b44898da041849236035027488ac2db",
+      "front": "dimanche",
+      "back": "Sunday",
+      "reverse": true,
       "tags": [
         "unité5"
       ]
     },
     {
-      "id": "sha256:b848d13fb3bd3277f8b8b1a797f2f400b4054f696a98095fedc6a64819ba7bc7",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "mettre"
-        },
-        {
-          "name": "Back",
-          "value": "to put"
-        }
-      ],
+      "id": "sha256:fc03753a10956a3a82cb83603200e13c8e895baf9fe420c1862969752d1d1a12",
+      "front": "la pièce",
+      "back": "room",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:b87a784f4bcf76a73174d28b8b5e1df81e401184ffa05c60309e89c37d958f42",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "mercredi"
-        },
-        {
-          "name": "Back",
-          "value": "Wednesday"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:b992aae50dcf561826f4e30aa7e51724763155d1610f122ffcc532619cc7ccef",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "<div><em>Nous partageons une pizza.</em></div>\n<div></div>"
-        },
-        {
-          "name": "Back",
-          "value": "We're sharing a pizza."
-        }
-      ],
+      "id": "sha256:fc19ad1508a538281b0d09c9d2d9846ec574d8ca4eedc0715eaf256a2270aa9f",
+      "front": "C’est un jour joyeux.",
+      "back": "<em>It’s a happy day.</em>",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:ba99711808ba570031237747a0a214e9882d3aba5729eb4e68885d06ddf6a942",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "louer"
-        },
-        {
-          "name": "Back",
-          "value": "to rent"
-        }
-      ],
+      "id": "sha256:fc502dfece61bdc07db65a5585724a2ccf81da5558ebcdd16e858c8fe04681e0",
+      "front": "louer",
+      "back": "to rent",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:bbff1cb9f5bd23316fb4f3522ac01be300fbab2a96d46b036d2affdea9e953e6",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "souvent"
-        },
-        {
-          "name": "Back",
-          "value": "often"
-        }
-      ],
+      "id": "sha256:fcba66198fbbb5b624e0cd7949c2b59412d8fc7ac54210f4b5828a096b7cd585",
+      "front": "il est&nbsp;désolé, elle est&nbsp;désolée",
+      "back": "he is sorry, she is sorry",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:bc3a861d1f5752745e9a1bca6f55c2ccee67d37e7bfcaa7184646e8f9e7b6bdf",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je prends le déjeuner avec mes collègues."
-        },
-        {
-          "name": "Back",
-          "value": "I have lunch with my coworkers."
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:bc8032af045cdb814aa50669eab09d82b96d2bb7e7265b268bbba361bf0041f9",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "samedi"
-        },
-        {
-          "name": "Back",
-          "value": "Saturday"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:bcfa723a03b599b12ed576459e9d6c15842a62011b73b0762ffa715a719d3b3a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le matin"
-        },
-        {
-          "name": "Back",
-          "value": "morning"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:be5fc54e32cc22db9fbebf01b7aa847bb1b355593880121b3f275b2964cdaa0f",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je suis triste aujourd'hui."
-        },
-        {
-          "name": "Back",
-          "value": "I am sad today."
-        }
-      ],
+      "id": "sha256:fce6b43b9d4d6721cb8b291d0e4f068ed76569d5fc55eb19cf34a5797c9c8797",
+      "front": "l'étage (m)",
+      "back": "floor",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
     },
     {
-      "id": "sha256:be9313dfd143add99bea9add400b8f3307d0c4332d346cb054f6b31072b31553",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Cette maison est très accueillante."
-        },
-        {
-          "name": "Back",
-          "value": "This house is very welcoming."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:c149e67b8a10fda49b4302c6ed3c6c4b82002ba20ace34adbf86a4d72d186fbb",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "blanc / blanche"
-        },
-        {
-          "name": "Back",
-          "value": "white"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:c2842d8f21eb6f5a1551c4f0a668ee9663db2cc924d933784cd94a84c585f507",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la journée"
-        },
-        {
-          "name": "Back",
-          "value": "day, daytime"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:c2df5e7d7241e9ad1c7f24eae92662b675ed546dcc0065d488af596bee6df478",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Ce jus est naturel."
-        },
-        {
-          "name": "Back",
-          "value": "This juice is natural."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:c2e5f3f987d60b642015be9422f29418b0222d0deea96cb4f9cbcfdba3a2a022",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Cet appartement est très bruyant."
-        },
-        {
-          "name": "Back",
-          "value": "This apartment is very noisy."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:c31feeff9d8bf7f6cb2451451dea0266130ef6a89c34cf7673851b012c4be725",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je travaille lundi."
-        },
-        {
-          "name": "Back",
-          "value": "I work on Monday."
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:c3501bc103fd4feb25107ef6e69b23a6ab0316eedd4a449a6330e63765e22499",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "marron"
-        },
-        {
-          "name": "Back",
-          "value": "brown"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:c36491a6f8f70de1d9561dfd176956b60a967e52ecfd836f2a2fcf3ef919c71a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "favoriser"
-        },
-        {
-          "name": "Back",
-          "value": "to favour, promote"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:c3af7586d9c43ae916da60f31a36272ce98dbf18dc33288a50c8070f34e8cc25",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je fais du sport l'après-midi."
-        },
-        {
-          "name": "Back",
-          "value": "I exercise in the afternoon."
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:c5dccfc8c00aa712107ce42bce657604fc13fa2de3ad4e285c1eb0779d2a6968",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le toit"
-        },
-        {
-          "name": "Back",
-          "value": "roof"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:c76a4fcceb6affdc25671acb1c91836352473e0852401e6d40dc68dc2bbc55ab",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "lundi"
-        },
-        {
-          "name": "Back",
-          "value": "Monday"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:c7b01ca88f938f399da12ae6b347dd1bbc43a42f01fd828f45df9fe94a1ab7dc",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je vais au cinéma vendredi."
-        },
-        {
-          "name": "Back",
-          "value": "I go to the movie theater on Friday."
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:c94e58ec13b742bc94027179194e0e83150b439f5691b5af6135184427968908",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "marron"
-        },
-        {
-          "name": "Back",
-          "value": "brown"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:c9cd24f1fac860dc0627011a306732be0cd5ca0e2569cf94c293c2a6ce34b5be",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "l'étage (m)"
-        },
-        {
-          "name": "Back",
-          "value": "floor"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:ca57e92f6060b64aaea83e79987c9866e7c8673b133e7d2cdccace3d8468b1fc",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "en haut"
-        },
-        {
-          "name": "Back",
-          "value": "at the top"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:ca6908012d954dc11a96f28733f80d00a0f221fb066089b513c341f10257e5e5",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "noir / noire"
-        },
-        {
-          "name": "Back",
-          "value": "black"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:cb356d59fd3965a9332a705766f76381bdbe8e155123f363d9cd033ebf00e4f3",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le jardin"
-        },
-        {
-          "name": "Back",
-          "value": "garden"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:cb6c02906a5ce645290413a8ae30220c80f138beefbd20bc5b833bd4168b010d",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je place le livre sur la table."
-        },
-        {
-          "name": "Back",
-          "value": "I’m putting the book on the table."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:cb7ba4c78d5a17589db596f1434aee0f150e6c619306ed945cdbb56ac2531037",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "facilement"
-        },
-        {
-          "name": "Back",
-          "value": "easily"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:ccc3ebdb948b51b0753b43f762b391e264c21939b9c698adc6c026568175eca1",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le soir"
-        },
-        {
-          "name": "Back",
-          "value": "evening"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:cd3703440049cb7f3a8aeea749acfd058136c3db8966887b68d7f76c7e5c29cb",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "mettre"
-        },
-        {
-          "name": "Back",
-          "value": "to put"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:d35efd500e4069c1b5b42af08500951cc00056ba599493d92cee4e960fb7a15e",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je suis occupé. Je suis occupée."
-        },
-        {
-          "name": "Back",
-          "value": "I am busy. I am busy."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:d4afc221d956698be03deb86d40bbb3e985569ebea80ea478cfd553e15d462c0",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "mardi"
-        },
-        {
-          "name": "Back",
-          "value": "Tuesday"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:d4bd5d52d315268af26310f22b33f5c807e4fabbbfc5a5964231e9dc36904d01",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "bleu / bleue"
-        },
-        {
-          "name": "Back",
-          "value": "blue"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:d5a36dece91ea904150d5ad4ec49d30ec302345adc76ceb67b75c99b142a8ae1",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la chambre"
-        },
-        {
-          "name": "Back",
-          "value": "bedroom"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:d5c85c28fa765b407a7c481ddba4cadbb959aebe0569ee08410842c849efcfa2",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "vendredi"
-        },
-        {
-          "name": "Back",
-          "value": "Friday"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:d6a7256112f944c99f56aa00e3b37d5d2ce49f801276ca9d43f47bfc8a79b6e6",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "jaune"
-        },
-        {
-          "name": "Back",
-          "value": "yellow"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:d6d606ec0da03ffd737e1db275546906cdbebf7c42e12d49f7cad9ef2abf7baf",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je me repose après le travail."
-        },
-        {
-          "name": "Back",
-          "value": "I’m resting after work. (root?)"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:d7b83539e36dcfff3e230370a18b150c6570d326458f585718e79b7d6b64ecc0",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "<div><em>C’est une femme joyeuse.</em></div>\n<div></div>"
-        },
-        {
-          "name": "Back",
-          "value": "She is a happy woman."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:d7c4a81758b490fa33a9800fde482adffff1f26b6240b8ffae1bfbc3351ffbcc",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je fais du sport l'après-midi."
-        },
-        {
-          "name": "Back",
-          "value": "I exercise in the afternoon."
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:d91f29aee93e3999cbaa70dc98b9a3df897df137b92c7cb518ff1440c808799f",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "<div><em>C’est une femme joyeuse.</em></div>\n<div></div>"
-        },
-        {
-          "name": "Back",
-          "value": "She is a happy woman."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:d9c61b78ac05bcc0655c39594cfc1f9bc5886bb92e56db21417bef96c6777e8d",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "mercredi"
-        },
-        {
-          "name": "Back",
-          "value": "Wednesday"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:d9f0b992f2b91f6c90858be7be4792cd6eada8c7cd66d053beeda80eeb5fdccd",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je monte l'escalier."
-        },
-        {
-          "name": "Back",
-          "value": "I'm going up the stairs."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:da6c4a4f709fbf024f684198a3f09e5349a5a523c920eabd1119a654405fe19b",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "C’est un jour joyeux."
-        },
-        {
-          "name": "Back",
-          "value": "<em>It’s a happy day.</em>"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:daefb4a475c89ef8a5786ceeac014376780097c6c7f4d590741536e7fe75dc33",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la piscine"
-        },
-        {
-          "name": "Back",
-          "value": "swimming pool"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:db337acc0e565e17997f581a7968a6f6b1512384755ca62414226b7f634ba6bb",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "bruyant"
-        },
-        {
-          "name": "Back",
-          "value": "noisy"
-        }
-      ],
-      "tags": [
-        "TestTag"
-      ]
-    },
-    {
-      "id": "sha256:de56162039e9a1c919cafc17902f47779f021778e419234556fc9873a6fc5b4f",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le frigo"
-        },
-        {
-          "name": "Back",
-          "value": "frige"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:e0546a574774044c14d7965c06485ffe9a072a54c8aca105a903add9c2a5122b",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "spacieux / spacieuse"
-        },
-        {
-          "name": "Back",
-          "value": "spacious"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:e09a61a30a5f16907e189730744e56479ff8a206e81b82af8d01c8753e82941a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le chauffage"
-        },
-        {
-          "name": "Back",
-          "value": "heating"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:e18fe63388bd58f8515b9adb02d73560ee4c1b5a5a443a21827943d98fb50655",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Il y a environ dix personnes ici."
-        },
-        {
-          "name": "Back",
-          "value": "There are about ten people here."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:e33778cff8dd5f6dca220264227ae2be1067016c2f7d5757d7453bbb9727e59c",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la pièce"
-        },
-        {
-          "name": "Back",
-          "value": "room"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:e33e909e6cfc43282f1a363f81812a8a8313319540fdae79c763a2f8bad0723e",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Elles rangent leur chambre."
-        },
-        {
-          "name": "Back",
-          "value": "They're tidying their room."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:e4c04601f6c860630dea8faf2885e17d30d1f4e532ef30d3b81003d4747b9cb7",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la fenêtre"
-        },
-        {
-          "name": "Back",
-          "value": "window"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:e55c26ff19b60937ebabc490560b9870ada9e3bc01d8baa9c50c1b67a0efb0b3",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "blanc / blanche"
-        },
-        {
-          "name": "Back",
-          "value": "white"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:e59eba2eeba23ad9a320aceb87b18c0e13c02ed5d8e7fcad287a8afc0e9a4f5e",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "sans"
-        },
-        {
-          "name": "Back",
-          "value": "without"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:e83028e911f7c57fd19ded445074bec396fbacca9b538528de8d61fb6c28255f",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le meuble"
-        },
-        {
-          "name": "Back",
-          "value": "piece of furniture"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:eb9b363934b5d51c16ca578b2156f36f4720dda7d3ce361dd20277a725d99ab7",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "en haut"
-        },
-        {
-          "name": "Back",
-          "value": "at the top"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:ebc65f2f4e313b1891173d70dee0a7c1a1b8b46cea0b20a3a5766f79ad606041",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Le restaurant est très bruyant."
-        },
-        {
-          "name": "Back",
-          "value": "The restaurant is very noisy."
-        }
-      ],
-      "tags": [
-        "TestTag"
-      ]
-    },
-    {
-      "id": "sha256:ebfe5488a9aaa985b7972feb4474fcc45139f77383004dd4b744a9a651c059f5",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la chaise"
-        },
-        {
-          "name": "Back",
-          "value": "chair"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:ecfb80bc2bfcd697448cf7546858bf6a2f34bf51107eb6ff10468f8b436663dc",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la maison"
-        },
-        {
-          "name": "Back",
-          "value": "house"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:ee3798e5386a1acca5de79e4694edf5011de776ecb957bca4be151e1b40fca92",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le soir"
-        },
-        {
-          "name": "Back",
-          "value": "evening"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:ee444cf866c4d87b18034fe402783ca11e9b106dc2e6689eb7e37a54a9eeaf96",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "étudier"
-        },
-        {
-          "name": "Back",
-          "value": "to study"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:f01c417f49fd2e41b284ee898f578d6878dc514f356d2dc38ab87bc7ae310a13",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je paie l’addition."
-        },
-        {
-          "name": "Back",
-          "value": "<em>I’m paying the bill.</em>"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:f070c057f5105b38e682b2d66368ff5afb74426546660935a12eac32a3daf10b",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Ce jus est naturel."
-        },
-        {
-          "name": "Back",
-          "value": "This juice is natural."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:f18405b7e7ae6d7f1de535e01aa30b7567714f3c1254699bd17263de8996bd32",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la véranda"
-        },
-        {
-          "name": "Back",
-          "value": "sun room"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:f1fc0ac553a6365eaa18bd370ff926076b3ef3018b8f06bf6b810922e62aa76e",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le matin"
-        },
-        {
-          "name": "Back",
-          "value": "morning"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:f2f03159dad663b4d4bb69ef4f9b291457762eddb680bb09b0c03b53a2ca796f",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "environ"
-        },
-        {
-          "name": "Back",
-          "value": "approximately"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:f337fa73365111fcef200a9166a94b04a2211c8b2ee0814b36cf59df3b396397",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "la table basse"
-        },
-        {
-          "name": "Back",
-          "value": "coffee table"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:f40ba7367dccba3998b80b24c0c977f4e9cec3e1736c04f0fa0ca23fd9924f73",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "This house is ugly."
-        },
-        {
-          "name": "Back",
-          "value": "Cette maison est laide."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:f4d933fac493b54e8ea5d93930a7c5a6fee5375a5d7c3304237e7daf86344922",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le frigo"
-        },
-        {
-          "name": "Back",
-          "value": "frige"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:f52c58be46cfe67b0ff0aabd2e32870c91e0c288be88f91c015238584682ffc7",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Le chat est en bas de l'escalier."
-        },
-        {
-          "name": "Back",
-          "value": "The cat is at the bottom of the stairs."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:f5ac55858182f18ef4d800d50e07eac79851c17972a227b217e07206cf1eae74",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je paie l’addition."
-        },
-        {
-          "name": "Back",
-          "value": "<em>I’m paying the bill.</em>"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:f5c349a90d473f31541797d01a1f865ff5e7afd7a8302cad4f3aa17a553186b9",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le toit"
-        },
-        {
-          "name": "Back",
-          "value": "roof"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:f60292e9759a723dc09dd20ff86ecea4132ac123a1d2c6a03ec96647a8990bdc",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "mardi"
-        },
-        {
-          "name": "Back",
-          "value": "Tuesday"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:f60af84d065f865224105004626425ef702924a6bb13b7e418d999aa7c1ac872",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "occupé / occupée"
-        },
-        {
-          "name": "Back",
-          "value": "busy"
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:f65595cd15625af4ae1a263552960fc0b577e403620fb345896ce81d126bf90a",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "le midi"
-        },
-        {
-          "name": "Back",
-          "value": "noon"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:f69224324e67c17cbf55ed1ca0593d781b2977d64d1724503e8da5097db4e726",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Ce bâtiment est laid."
-        },
-        {
-          "name": "Back",
-          "value": "This building is ugly."
-        }
-      ],
-      "tags": [
-        "Logement"
-      ]
-    },
-    {
-      "id": "sha256:f92ac1db926522192fd7800728a29db4e6b574c551ba4287336e36197a322177",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je bois du café le matin."
-        },
-        {
-          "name": "Back",
-          "value": "I drink coffee in the morning."
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:f99b0ca795142eb3aef2e95155b337e8682e599d07f2cf08341782b38f4f3c87",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je vais au cinéma vendredi."
-        },
-        {
-          "name": "Back",
-          "value": "I go to the movie theater on Friday."
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:fcf2edfdafe45b0ebf1c6cd8aa3285d92fe9ef654424efb61130c685eaaade6f",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "Je prends le petit déjeuner à sept heures."
-        },
-        {
-          "name": "Back",
-          "value": "I have breakfast at seven o'clock."
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:fd66f8b3b90907e12032339c8a037886922fab4cdd79a21cf7fe3fe529d1e52b",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 2",
-      "card_ordinal": 1,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "lundi"
-        },
-        {
-          "name": "Back",
-          "value": "Monday"
-        }
-      ],
-      "tags": [
-        "unité5"
-      ]
-    },
-    {
-      "id": "sha256:ff7847d88a668285830d828ae58338e120ddfab481abb75f7fb958c8c8d818ef",
-      "note_type": "Basic (and reversed card)",
-      "card_type": "Card 1",
-      "card_ordinal": 0,
-      "fields": [
-        {
-          "name": "Front",
-          "value": "jaune"
-        },
-        {
-          "name": "Back",
-          "value": "yellow"
-        }
-      ],
+      "id": "sha256:fe626fb525e024f7b023606880d7608ae841204c041521353a6aae4c05e21ffb",
+      "front": "Je comprends facilement cette règle.",
+      "back": "I understand this rule easily.",
+      "reverse": true,
       "tags": [
         "Logement"
       ]
