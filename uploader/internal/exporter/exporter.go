@@ -15,30 +15,33 @@ import (
 	"github.com/moeghassi/moeankidecks/uploader/internal/anki"
 )
 
-const SchemaVersion = 1
+const SchemaVersion = 2
 
 var mediaPattern = regexp.MustCompile(`(?i)(\[sound:|<(?:img|audio|video|source|object)\b|\burl\s*\()`)
 
-type Field struct {
-	Name  string `json:"name"`
-	Value string `json:"value"`
-}
-
-type Card struct {
-	ID          string   `json:"id"`
-	NoteType    string   `json:"note_type"`
-	CardType    string   `json:"card_type"`
-	CardOrdinal int      `json:"card_ordinal"`
-	Fields      []Field  `json:"fields"`
-	Tags        []string `json:"tags"`
+type Note struct {
+	ID      string   `json:"id"`
+	Front   string   `json:"front"`
+	Back    string   `json:"back"`
+	Reverse bool     `json:"reverse"`
+	Tags    []string `json:"tags"`
 }
 
 type Deck struct {
 	SchemaVersion int    `json:"schema_version"`
 	DeckID        string `json:"deck_id"`
 	DeckName      string `json:"deck_name"`
-	Cards         []Card `json:"cards"`
+	Notes         []Note `json:"notes"`
 }
+
+type Progress struct {
+	Current  int
+	Total    int
+	CardType string
+	Front    string
+}
+
+type ProgressFunc func(Progress)
 
 func Slug(name string) (string, error) {
 	var b strings.Builder
@@ -62,6 +65,10 @@ func Slug(name string) (string, error) {
 }
 
 func Build(ctx context.Context, api anki.API, deckName string) (Deck, error) {
+	return BuildWithProgress(ctx, api, deckName, nil)
+}
+
+func BuildWithProgress(ctx context.Context, api anki.API, deckName string, progress ProgressFunc) (Deck, error) {
 	slug, err := Slug(deckName)
 	if err != nil {
 		return Deck{}, err
@@ -81,7 +88,7 @@ func Build(ctx context.Context, api anki.API, deckName string) (Deck, error) {
 		return Deck{}, fmt.Errorf("deck %q does not exist", deckName)
 	}
 
-	ids, err := api.FindCards(ctx, `deck:"`+escapeQuery(deckName)+`"`)
+	ids, err := api.FindCards(ctx, fmt.Sprintf(`deck:"%s"`, escapeQuery(deckName)))
 	if err != nil {
 		return Deck{}, err
 	}
@@ -109,9 +116,15 @@ func Build(ctx context.Context, api anki.API, deckName string) (Deck, error) {
 	}
 
 	templates := make(map[string][]string)
-	result := Deck{SchemaVersion: SchemaVersion, DeckID: slug, DeckName: deckName, Cards: make([]Card, 0, len(cards))}
-	seenIDs := make(map[string]struct{}, len(cards))
-	for _, source := range cards {
+	type sourceNote struct {
+		front    string
+		back     string
+		tags     []string
+		model    string
+		ordinals map[int]struct{}
+	}
+	grouped := make(map[int64]*sourceNote)
+	for i, source := range cards {
 		if source.CardID == 0 || source.NoteID == 0 || source.ModelName == "" || source.Ordinal < 0 || len(source.Fields) == 0 {
 			return Deck{}, fmt.Errorf("card returned incomplete publication data")
 		}
@@ -119,35 +132,61 @@ func Build(ctx context.Context, api anki.API, deckName string) (Deck, error) {
 		if !ok {
 			return Deck{}, fmt.Errorf("AnkiConnect returned no note information for a card")
 		}
-		names, ok := templates[source.ModelName]
+		frontField, hasFront := source.Fields["Front"]
+		backField, hasBack := source.Fields["Back"]
+		if !hasFront || !hasBack || len(source.Fields) != 2 {
+			return Deck{}, fmt.Errorf("note type %q must contain exactly Front and Back fields", source.ModelName)
+		}
+		if mediaPattern.MatchString(frontField.Value) || mediaPattern.MatchString(backField.Value) {
+			return Deck{}, fmt.Errorf("card contains unsupported media")
+		}
+		templateNames, ok := templates[source.ModelName]
 		if !ok {
-			names, err = api.TemplateNames(ctx, source.ModelName)
+			templateNames, err = api.TemplateNames(ctx, source.ModelName)
 			if err != nil {
 				return Deck{}, err
 			}
-			templates[source.ModelName] = names
+			templates[source.ModelName] = templateNames
 		}
-		cardType, err := templateName(names, source.Ordinal)
+		cardType, err := templateName(templateNames, source.Ordinal)
 		if err != nil {
 			return Deck{}, fmt.Errorf("card in note type %q: %w", source.ModelName, err)
 		}
-		fields := orderedFields(source.Fields)
-		for _, field := range fields {
-			if mediaPattern.MatchString(field.Value) {
-				return Deck{}, fmt.Errorf("card field %q contains unsupported media", field.Name)
-			}
+		if progress != nil {
+			progress(Progress{Current: i + 1, Total: len(cards), CardType: cardType, Front: oneLine(frontField.Value)})
 		}
-		sortedTags := append([]string(nil), tags...)
-		sort.Strings(sortedTags)
-		published := Card{NoteType: source.ModelName, CardType: cardType, CardOrdinal: source.Ordinal, Fields: fields, Tags: sortedTags}
+
+		entry, exists := grouped[source.NoteID]
+		if !exists {
+			sortedTags := append([]string(nil), tags...)
+			sort.Strings(sortedTags)
+			entry = &sourceNote{front: frontField.Value, back: backField.Value, tags: sortedTags, model: source.ModelName, ordinals: make(map[int]struct{})}
+			grouped[source.NoteID] = entry
+		} else if entry.front != frontField.Value || entry.back != backField.Value || entry.model != source.ModelName {
+			return Deck{}, fmt.Errorf("cards for one source note returned inconsistent fields")
+		}
+		if _, duplicate := entry.ordinals[source.Ordinal]; duplicate {
+			return Deck{}, fmt.Errorf("source note contains duplicate card ordinal %d", source.Ordinal)
+		}
+		entry.ordinals[source.Ordinal] = struct{}{}
+	}
+
+	result := Deck{SchemaVersion: SchemaVersion, DeckID: slug, DeckName: deckName, Notes: make([]Note, 0, len(grouped))}
+	seenIDs := make(map[string]struct{}, len(grouped))
+	for _, source := range grouped {
+		reverse, err := reverseMode(source.ordinals)
+		if err != nil {
+			return Deck{}, fmt.Errorf("note type %q: %w", source.model, err)
+		}
+		published := Note{Front: source.front, Back: source.back, Reverse: reverse, Tags: source.tags}
 		published.ID = contentID(published)
 		if _, exists := seenIDs[published.ID]; exists {
-			return Deck{}, fmt.Errorf("duplicate card content produces public ID %s", published.ID)
+			return Deck{}, fmt.Errorf("duplicate note content produces public ID %s", published.ID)
 		}
 		seenIDs[published.ID] = struct{}{}
-		result.Cards = append(result.Cards, published)
+		result.Notes = append(result.Notes, published)
 	}
-	sort.Slice(result.Cards, func(i, j int) bool { return result.Cards[i].ID < result.Cards[j].ID })
+	sort.Slice(result.Notes, func(i, j int) bool { return result.Notes[i].ID < result.Notes[j].ID })
 	return result, nil
 }
 
@@ -167,7 +206,7 @@ func escapeQuery(s string) string {
 }
 
 func templateName(names []string, ordinal int) (string, error) {
-	if len(names) == 1 { // Cloze cards share one template across multiple ordinals.
+	if len(names) == 1 {
 		return names[0], nil
 	}
 	if ordinal >= len(names) {
@@ -176,40 +215,33 @@ func templateName(names []string, ordinal int) (string, error) {
 	return names[ordinal], nil
 }
 
-func orderedFields(fields map[string]anki.Field) []Field {
-	type ordered struct {
-		name  string
-		value string
-		order int
-	}
-	items := make([]ordered, 0, len(fields))
-	for name, field := range fields {
-		items = append(items, ordered{name: name, value: field.Value, order: field.Order})
-	}
-	sort.Slice(items, func(i, j int) bool {
-		if items[i].order == items[j].order {
-			return items[i].name < items[j].name
+func reverseMode(ordinals map[int]struct{}) (bool, error) {
+	if len(ordinals) == 1 {
+		if _, ok := ordinals[0]; ok {
+			return false, nil
 		}
-		return items[i].order < items[j].order
-	})
-	result := make([]Field, len(items))
-	for i, item := range items {
-		result[i] = Field{Name: item.name, Value: item.value}
 	}
-	return result
+	if len(ordinals) == 2 {
+		_, forward := ordinals[0]
+		_, reverse := ordinals[1]
+		if forward && reverse {
+			return true, nil
+		}
+	}
+	return false, fmt.Errorf("fixed Front/Back export supports only card ordinal 0, optionally with ordinal 1")
 }
 
-func contentID(card Card) string {
+func contentID(note Note) string {
 	h := sha256.New()
-	writeHashPart(h, "moeankidecks/card-id/v1")
-	writeHashPart(h, card.NoteType)
-	writeHashPart(h, card.CardType)
-	writeHashPart(h, fmt.Sprintf("%d", card.CardOrdinal))
-	for _, field := range card.Fields {
-		writeHashPart(h, field.Name)
-		writeHashPart(h, field.Value)
-	}
+	writeHashPart(h, "moeankidecks/note-id/v2")
+	writeHashPart(h, note.Front)
+	writeHashPart(h, note.Back)
+	writeHashPart(h, fmt.Sprintf("%t", note.Reverse))
 	return "sha256:" + hex.EncodeToString(h.Sum(nil))
+}
+
+func oneLine(value string) string {
+	return strings.Join(strings.Fields(value), " ")
 }
 
 type writer interface{ Write([]byte) (int, error) }

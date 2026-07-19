@@ -20,6 +20,7 @@ func Run(ctx context.Context, args []string, out io.Writer) error {
 	flags := flag.NewFlagSet("uploader", flag.ContinueOnError)
 	flags.SetOutput(io.Discard)
 	push := flags.Bool("push", false, "commit and push the generated snapshot")
+	verbose := flags.Bool("v", false, "print one progress line per card")
 	if err := flags.Parse(args); err != nil {
 		return usageError()
 	}
@@ -38,7 +39,13 @@ func Run(ctx context.Context, args []string, out io.Writer) error {
 		}
 	}
 
-	deck, err := exporter.Build(ctx, anki.NewClient(endpoint), deckName)
+	var progress exporter.ProgressFunc
+	if *verbose {
+		progress = func(item exporter.Progress) {
+			fmt.Fprintf(out, "[%d/%d] %s: %s\n", item.Current, item.Total, item.CardType, item.Front)
+		}
+	}
+	deck, err := exporter.BuildWithProgress(ctx, anki.NewClient(endpoint), deckName, progress)
 	if err != nil {
 		return err
 	}
@@ -56,13 +63,13 @@ func Run(ctx context.Context, args []string, out io.Writer) error {
 		return fmt.Errorf("compare existing snapshot: %w", err)
 	}
 	if same {
-		fmt.Fprintf(out, "Deck %q is unchanged (%d cards); no file or Git changes were made.\n", deckName, len(deck.Cards))
+		fmt.Fprintf(out, "Deck %q is unchanged (%d notes); no file or Git changes were made.\n", deckName, len(deck.Notes))
 		return nil
 	}
 	if err := storage.AtomicWrite(path, data); err != nil {
 		return err
 	}
-	fmt.Fprintf(out, "Wrote %d cards to %s\n", len(deck.Cards), path)
+	fmt.Fprintf(out, "Wrote %d notes to %s\n", len(deck.Notes), path)
 	if *push {
 		if err := publisher.Publish(ctx, relativePath, deckName); err != nil {
 			return err
@@ -72,7 +79,7 @@ func Run(ctx context.Context, args []string, out io.Writer) error {
 	return nil
 }
 
-func usageError() error { return fmt.Errorf("usage: uploader [--push] \"<deck name>\"") }
+func usageError() error { return fmt.Errorf("usage: uploader [-v] [--push] \"<deck name>\"") }
 
 func repositoryRoot() (string, error) {
 	dir, err := os.Getwd()

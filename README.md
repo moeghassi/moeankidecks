@@ -15,6 +15,12 @@ Keep Anki Desktop running with AnkiConnect available at
 go run ./uploader/cmd/uploader "French A1"
 ```
 
+Add `-v` to print one progress line for each source card:
+
+```sh
+go run ./uploader/cmd/uploader -v "French A1"
+```
+
 To require a clean, synchronized Git branch and publish the generated snapshot:
 
 ```sh
