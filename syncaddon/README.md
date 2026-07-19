@@ -1,6 +1,6 @@
 # Moe Anki Deck Sync
 
-Current version: `0.1.0`
+Current version: `0.1.1`
 
 Desktop Anki add-on that checks the published manifest on GitHub and adds notes
 that are not already present in the current collection.

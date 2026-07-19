@@ -163,6 +163,21 @@ func TestOneLine(t *testing.T) {
 	}
 }
 
+func TestNormalizedTagsAlwaysReturnsArrayAndDropsEmptyValues(t *testing.T) {
+	got := normalizedTags([]string{"", "  ", "shared", "shared", "adjective"})
+	if len(got) != 2 || got[0] != "adjective" || got[1] != "shared" {
+		t.Fatalf("normalizedTags = %#v", got)
+	}
+	deck := Deck{SchemaVersion: 2, DeckID: "test", DeckName: "Test", Notes: []Note{{ID: "sha256:test", Front: "front", Back: "back", Tags: normalizedTags(nil)}}}
+	data, err := Marshal(deck)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if strings.Contains(string(data), `"tags": null`) || !strings.Contains(string(data), `"tags": []`) {
+		t.Fatalf("empty tags were not encoded as an array: %s", data)
+	}
+}
+
 func TestSlug(t *testing.T) {
 	cases := map[string]string{"French A1": "french-a1", " French--A1 ": "french-a1", "Été 2026": "été-2026"}
 	for input, want := range cases {

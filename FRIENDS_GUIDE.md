@@ -15,7 +15,7 @@ Choose the download for your computer, install it, and open Anki.
 
 Click this link to download the shared French A1.2 vocabulary card deck:
 
-<https://github.com/moeghassi/moeankidecks/releases/download/syncaddon-v0.1.0/moeankidecks.ankiaddon>
+<https://github.com/moeghassi/moeankidecks/releases/download/syncaddon-v0.1.1/moeankidecks.ankiaddon>
 
 Your computer will download a file named:
 

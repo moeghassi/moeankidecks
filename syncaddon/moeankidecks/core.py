@@ -133,8 +133,13 @@ def parse_deck(data: bytes, entry: ManifestEntry) -> PublishedDeck:
             raise PublicationError(f"note {shared_id!r} must have nonempty front and back strings")
         if not isinstance(reverse, bool):
             raise PublicationError(f"note {shared_id!r} reverse must be boolean")
-        if not isinstance(tags, list) or any(not isinstance(tag, str) or not tag for tag in tags):
-            raise PublicationError(f"note {shared_id!r} tags must be nonempty strings")
+        # Schema v2 initially allowed a tagless Go slice to encode as null.
+        # Treat null and empty/whitespace tag strings as an empty tag list.
+        if tags is None:
+            tags = []
+        if not isinstance(tags, list) or any(not isinstance(tag, str) for tag in tags):
+            raise PublicationError(f"note {shared_id!r} tags must be strings")
+        tags = [tag for tag in tags if tag.strip()]
         if tags != sorted(set(tags)):
             raise PublicationError(f"note {shared_id!r} tags must be unique and sorted")
         notes.append(PublishedNote(shared_id, front, back, reverse, tuple(tags)))

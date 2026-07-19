@@ -158,8 +158,7 @@ func BuildWithProgress(ctx context.Context, api anki.API, deckName string, progr
 
 		entry, exists := grouped[source.NoteID]
 		if !exists {
-			sortedTags := append([]string(nil), tags...)
-			sort.Strings(sortedTags)
+			sortedTags := normalizedTags(tags)
 			entry = &sourceNote{front: frontField.Value, back: backField.Value, tags: sortedTags, model: source.ModelName, ordinals: make(map[int]struct{})}
 			grouped[source.NoteID] = entry
 		} else if entry.front != frontField.Value || entry.back != backField.Value || entry.model != source.ModelName {
@@ -242,6 +241,23 @@ func contentID(note Note) string {
 
 func oneLine(value string) string {
 	return strings.Join(strings.Fields(value), " ")
+}
+
+func normalizedTags(tags []string) []string {
+	result := make([]string, 0, len(tags))
+	seen := make(map[string]struct{}, len(tags))
+	for _, tag := range tags {
+		if strings.TrimSpace(tag) == "" {
+			continue
+		}
+		if _, duplicate := seen[tag]; duplicate {
+			continue
+		}
+		seen[tag] = struct{}{}
+		result = append(result, tag)
+	}
+	sort.Strings(result)
+	return result
 }
 
 type writer interface{ Write([]byte) (int, error) }

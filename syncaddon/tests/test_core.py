@@ -115,6 +115,15 @@ class CoreTests(unittest.TestCase):
         with self.assertRaises(PublicationError):
             parse_manifest(bad_manifest)
 
+    def test_tagless_and_empty_tags_are_normalized(self) -> None:
+        for raw_tags in (None, [], ["", "  "]):
+            value = json.loads(deck_bytes())
+            value["notes"][0]["tags"] = raw_tags
+            data = (json.dumps(value, ensure_ascii=False) + "\n").encode()
+            entry = entry_for(data)
+            deck = parse_deck(data, entry)
+            self.assertEqual(deck.notes[0].tags, ())
+
     def test_resolves_relative_deck_url(self) -> None:
         entry = entry_for(deck_bytes())
         url = resolve_deck_url("https://example.test/repo/main/manifest.json", entry)

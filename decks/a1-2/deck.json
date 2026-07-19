@@ -899,7 +899,7 @@
       "front": "la ville",
       "back": "city",
       "reverse": true,
-      "tags": null
+      "tags": []
     },
     {
       "id": "sha256:d51e810291e15b05412d8537ebbe0885a9a02a7cf8425d034caad2d70f649a55",
