@@ -220,6 +220,13 @@
       ]
     },
     {
+      "id": "sha256:3cf63f54042f28f09f8a069b09485e9c816ca15f132fe3e129418abb85cc182a",
+      "front": "le&nbsp;<span style=\"font-weight: 700;\">vocabulaire</span>",
+      "back": "<span style=\"font-weight: 700;\">vocabulary</span>",
+      "reverse": true,
+      "tags": []
+    },
+    {
       "id": "sha256:3fd026f4dbb7634b78a051fe89998913045c32425b879d56b13362c759770482",
       "front": "le matin",
       "back": "morning",
