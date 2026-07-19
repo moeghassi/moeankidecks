@@ -13,12 +13,39 @@
       ]
     },
     {
+      "id": "sha256:02c1ef95839967d223fbe21a162a32c636004c97724eb2dea28e40d12774d60c",
+      "front": "les étagères",
+      "back": "shelves",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:02f9b618b23ce55794a93ed2d94a728b89d700a501bed2b031ce8a9c5e702d0e",
       "front": "Je vais souvent au parc.",
       "back": "I often go to the park.",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:03c68c7281bdbd801898a7cd5dccb81f46ee06d7291f38b63d878f632b892f43",
+      "front": "à gauche de",
+      "back": "to the left of",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:040025c3dc639387c8735bf0ef3f761a38241d8f61da47a00c091a0ea68292ef",
+      "front": "Mes vêtements sont dans l'armoire.",
+      "back": "My clothes are in the wardrobe.",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -58,6 +85,15 @@
       ]
     },
     {
+      "id": "sha256:08d46cb758f4dad8b6d090982cb74d6833f2ea81149fed3498886b0ad4b5e453",
+      "front": "Elle cherche son ordinateur.",
+      "back": "she is looking for her computer.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:0a6ea74505ca1c4980d9809c0db8af94da31d52cfae2d8d648acae2b634e2448",
       "front": "<div>C'est une idée géniale.</div>\n<div></div>",
       "back": "It’s a great idea.",
@@ -91,6 +127,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:0ea0c27538e0d9b950c904425c63b39cc4960c3a07d2b02568cf7544307f4d08",
+      "front": "le lave-vaisselle",
+      "back": "dishwasher",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -157,12 +202,66 @@
       ]
     },
     {
+      "id": "sha256:1c7417d6015465bb0035ea3ab5c499f4af161fa614f673cc15d3387f0b0f0a21",
+      "front": "Je parle et j'écris à la fois.",
+      "back": "I speak and write at the same time.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:1e319f80ab79fbda36e5c0123424aa364151b874f44c08f9e686b5fde2e8870b",
       "front": "J'ai un cours de français mardi.",
       "back": "I have a French class on Tuesday.",
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:1e513739d608d541ccd8566c5dfda604f34e1d71f2888e839622cbbe42695c6a",
+      "front": "Je bois du thé dans une tasse.",
+      "back": "I drink tea from a cup.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:1e545c04b41f95379e6ec8a15ba9b3018f7f0e3093a646e86bee3f0d143144ab",
+      "front": "Le soleil jaune",
+      "back": "The sun is yellow.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:1e5c2619b758b8f3732d0d2504ddc8763e8fc6f971c4d740586e86ed84ad1f76",
+      "front": "Les verres sont dans le placard.",
+      "back": "The glasses are in the cupboard.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:237ff8004b0e1713ccab72a92e47996f0fdef4a75a547552f44e1b9182f8f6cd",
+      "front": "le siècle",
+      "back": "century",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:242ab3cde8c3af1fccacefe157a8048bd38ec117c023944000b7e99e2830b927",
+      "front": "l'immeuble (m)",
+      "back": "apartment building",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -184,6 +283,15 @@
       ]
     },
     {
+      "id": "sha256:2ab2fd41d8c030ea293d0a6ceb25eb3bd260f6a129f606e8c5c85cc2c8e4f991",
+      "front": "le placard",
+      "back": "cupboard/closet",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:2baabd93ea884689d60368701845d3e89b03b599696274af03b594024ce3ae2c",
       "front": "le meuble",
       "back": "piece of furniture",
@@ -199,6 +307,24 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:36a3f261e5f91bfb68de0ff09df1a59acf027fcfe962b79a251237c8df39d0bc",
+      "front": "la salle à manger",
+      "back": "dining room",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:38692f5ee1161b97ce3da4d66ed8d2a47dd6099f5bb22964baa4824e3e8e1211",
+      "front": "le soleil",
+      "back": "sun",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -220,11 +346,47 @@
       ]
     },
     {
+      "id": "sha256:3bff0677e7f1687201a1aed10ef77a3c0f7693bf4c85d6b3e949018d6f648b18",
+      "front": "Le chat est derrière la porte.",
+      "back": "The cat is behind the door.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:3cf63f54042f28f09f8a069b09485e9c816ca15f132fe3e129418abb85cc182a",
       "front": "le&nbsp;<span style=\"font-weight: 700;\">vocabulaire</span>",
       "back": "<span style=\"font-weight: 700;\">vocabulary</span>",
       "reverse": true,
       "tags": []
+    },
+    {
+      "id": "sha256:3e1b622fda9957bd72a945196c00d7b54ed10fa24a3c964056178e840ed78971",
+      "front": "Les tasses sont dans le lave-vaisselle.",
+      "back": "The cups are in the dishwasher.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:3ec31628b35f6beef7e0ea30c349853eb1f919d956499ddb8c9135c8c224bfa1",
+      "front": "la chambre de bonne",
+      "back": "maid's room",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:3fba7a2704f4c5233564d0bee5f279c411b6409039b1116e7c6590addddd9993",
+      "front": "les affaires",
+      "back": "things",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
     },
     {
       "id": "sha256:3fd026f4dbb7634b78a051fe89998913045c32425b879d56b13362c759770482",
@@ -260,6 +422,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:49cdb7806fda326b59f2fccf443759712d4e6f2efa81d9c7b482ad51b7d8d154",
+      "front": "à droite de",
+      "back": "to the right of",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -326,6 +497,33 @@
       ]
     },
     {
+      "id": "sha256:53222d99f90024233046b7d31242e846a3b69620c83134abaa2ec0f88090502f",
+      "front": "Nous mangeons dans la salle à manger.",
+      "back": "We eat in the dining room.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:53fd84a92762d0d3449424a2e74c75732e3a80f5a5fb110f5854c8d66c9a5023",
+      "front": "le prix",
+      "back": "price",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:54b733c9fdf7a335adc04656764e4c05afe4a272e86aba17249b68fc00178bd5",
+      "front": "La voiture est devant la maison.",
+      "back": "The car is in front of the house.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:5526afc0bb6d549aaecdf3a341a8d944f6472c1af07343c52629eddc68a32d54",
       "front": "<div><em>Ce café est très accueillant.</em></div>\n<div></div>",
       "back": "This café is very welcoming.",
@@ -341,6 +539,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:5990faab2dc707cbc9ccfcc7feb864cdd6aa40cd2eabde85efb9f7689b90427f",
+      "front": "Je bois un verre d'eau.",
+      "back": "I drink a glass of water.",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -368,6 +575,24 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:6501469a45e15256bd08306d7dafe4b9c200e0f63ca0631e445fb1e21719f7f6",
+      "front": "La pharmacie est à droite de la banque.",
+      "back": "The pharmacy is to the right of the bank.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:67241e8a47d23430cd236ba7a2abb72120e36234cb78f01275972c0faa67f809",
+      "front": "Où sont mes affaires ?",
+      "back": "Where are my things?",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -506,6 +731,33 @@
       ]
     },
     {
+      "id": "sha256:8290fd72d9d4716b62e6669466d549ec5e9384581083498b285336c7a66049c6",
+      "front": "l'étudiant habit dans une petite chambre de bonne.",
+      "back": "The student lives in a small maid's room.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:83b4cdecc50e27689e3d5237801b2291ee69eaf0f39060ef58ae9f76405e5342",
+      "front": "se doucher",
+      "back": "to take a shower",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:8593c257b3677c44e5865f98c7a04317bd28ab07d8200f1e37d9d9ff3dfdb7de",
+      "front": "la tasse",
+      "back": "cup",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:8631fd0a92a71334043cf3d780e47b9c03b58e9d4c97512c48705b9e65114f48",
       "front": "la véranda",
       "back": "sun room",
@@ -560,6 +812,15 @@
       ]
     },
     {
+      "id": "sha256:960fbd59b4d864f322fb40a7c9007f300653977765832f9c8ffd0246b7dd5781",
+      "front": "Nous prenons l'ascenseur.",
+      "back": "We take the elevator.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:967b944578ab6e394389e11fea59aeb15f97f7f6b1012a99d09771b8ba3d64d7",
       "front": "This house is ugly.",
       "back": "Cette maison est laide.",
@@ -584,6 +845,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:9bf355ad26c9580849d40bafb54ee72443e7d2353167a6827bebd9775b1e7397",
+      "front": "l'armoire",
+      "back": "wardrobe",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -623,12 +893,39 @@
       ]
     },
     {
+      "id": "sha256:9ff769ef0f140bf5e667b40287438587fc48c002495e2568ab2357a38f80f8c6",
+      "front": "J'utilise une chaise pliante.",
+      "back": "I use a folding chair.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:a2ea4aba7e638e363a01e7af12ec9768495681b6e5e3a4b3d90ddc71a587e314",
       "front": "le jardin",
       "back": "garden",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:a57eb8259fdc3dcdc93015c874915a0b1e65c2462d06bd8b9e16fe7aab485c50",
+      "front": "Le loyer est de 900 euros, charges comprises.",
+      "back": "The rent is 900 euros, utilities included.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:a59d02fd178a19526d8e67bbd7572f6a0df9721d8d9dce8c88d53bb58f5fd274",
+      "front": "charges comprises",
+      "back": "utilities included",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -758,6 +1055,15 @@
       ]
     },
     {
+      "id": "sha256:b7c4fb5dfddbf85860dcc1f8999ba1dac6dc8ca803b19ea422a22728f9f7cdb9",
+      "front": "l'ascenseur",
+      "back": "elevator",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:b97a4366c921c5376cca6457d3dbdf62f3253ffcd584240ac41e666536195887",
       "front": "Nous prenons le dîner à huit heures.",
       "back": "We have dinner at eight o'clock.",
@@ -773,6 +1079,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:bb9530791866eafe3132974722c470d992a872bac36405454a6a31dfa924afd3",
+      "front": "tout seul / toute seule",
+      "back": "alone",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -800,6 +1115,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:c2769d27c41481435a53c58e1372601954f2a97a377617f7d9412b99e76f43b2",
+      "front": "La banque est à gauche du supermarché.",
+      "back": "The bank is to the left of the supermarket.",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -866,12 +1190,30 @@
       ]
     },
     {
+      "id": "sha256:ca8dd18c6bbeed58842883755789b77c617dbbc8adaa324e7d857cc1d48fc8a0",
+      "front": "Je voyage tout seul. Elle habite toute seule.",
+      "back": "I travel alone. She lives alone.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:ccf5690e26aff71e529ec1a4892a401395495a251aaaea11f9083c007d6abf2d",
       "front": "Je prends le petit déjeuner à sept heures.",
       "back": "I have breakfast at seven o'clock.",
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:cd785cc8207c1501d1838aaa2c08e1bdb09d644cbd7e5ae9518e622ba1f10047",
+      "front": "le verre",
+      "back": "glass",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -890,6 +1232,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:d0299f4728d37e60bfec8fef35f0bd84a84eae80d4eacf72a3d027d89fa4f148",
+      "front": "derrière",
+      "back": "behind",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -954,6 +1305,15 @@
       ]
     },
     {
+      "id": "sha256:db82e2b7d90cb74e2030061e06f700095c586f8cf87a7bded3d8ece44121ec99",
+      "front": "Je me douche le matin.",
+      "back": "I take a shower in the morning.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:ddff3986df0d547a59daef861ea519c58986b862720adbbd60e8d837220682c8",
       "front": "lundi",
       "back": "Monday",
@@ -1008,12 +1368,30 @@
       ]
     },
     {
+      "id": "sha256:e1e76f466a71a000d38d4624ee38716d4502ea5b3af88aa07dae64f744c83891",
+      "front": "Quel est le prix de cette table ?",
+      "back": "What is the price of this table?",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:e2f89fd8b66389f25342cf0c4387a39eb9e2a7b091317c7a3364ccf91ea8ae60",
       "front": "le lit",
       "back": "bed",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:e5fa7ec58851ff11193ce5a37c4bf31277ecf54bf2f07f266b74bacf927f9c62",
+      "front": "à la fois",
+      "back": "at the same time",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -1080,6 +1458,24 @@
       ]
     },
     {
+      "id": "sha256:f2b3c1ac10dc9bcfb93e340e016437cc4d7f382ac11dd2a8354053f7c2ba0812",
+      "front": "pliant / pliante",
+      "back": "folding",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:f32f45360406a89a2feabd444b4aa90c4b74209a278d6208b0abd46c914affb3",
+      "front": "chercher",
+      "back": "to look for",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:f427a163886d10d17c80d991dce55495eb55170932a400e0d022cbc35e519bed",
       "front": "rouge",
       "back": "red",
@@ -1095,6 +1491,24 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:f54fb1fca9f920f62751b408db68f1c225b66d57bb5007a7761ad52e28c525b3",
+      "front": "J'habite dans un grand immeuble.",
+      "back": "I live in a large apartment building.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:f7effca74c821c6b0a8c467e777569ffb01ac3253138ef46521af233d2dce263",
+      "front": "devant",
+      "back": "in front of",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -1116,12 +1530,30 @@
       ]
     },
     {
+      "id": "sha256:f9141817831c7decb2912a0d68bcccf3250169a1616d1e933029918bb293b535",
+      "front": "Les étagères sont pleines de livres.",
+      "back": "The shelves are full of books.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:fc03753a10956a3a82cb83603200e13c8e895baf9fe420c1862969752d1d1a12",
       "front": "la pièce",
       "back": "room",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:fc11c7e7d6c696a7276cedbb7f7dd862e42056f07ca846a97017f134710a6fd9",
+      "front": "Ce bâtiment date du siècle dernier.",
+      "back": "This building dates from the last century.",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
