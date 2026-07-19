@@ -40,7 +40,11 @@ func TestPrepareAndPublish(t *testing.T) {
 	if err := os.WriteFile(path, []byte("{}\n"), 0o644); err != nil {
 		t.Fatal(err)
 	}
-	if err := p.Publish(context.Background(), "decks/french-a1/deck.json", "French A1"); err != nil {
+	manifestPath := filepath.Join(work, "manifest.json")
+	if err := os.WriteFile(manifestPath, []byte("{}\n"), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	if err := p.Publish(context.Background(), []string{"decks/french-a1/deck.json", "manifest.json"}, "French A1"); err != nil {
 		t.Fatal(err)
 	}
 	message := strings.TrimSpace(runGit(t, work, "log", "-1", "--pretty=%s"))

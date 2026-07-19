@@ -1,2 +1,5 @@
 /uploader/uploader
 .DS_Store
+/syncaddon/dist/
+__pycache__/
+*.pyc

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "decks": [
+    {
+      "deck_id": "a1-2",
+      "deck_name": "A1.2",
+      "path": "decks/a1-2/deck.json",
+      "sha256": "sha256:33b704a26f61f82b291ba52bd434c2017eb707104151312c6f934271511ca6da",
+      "note_count": 128
+    }
+  ]
+}

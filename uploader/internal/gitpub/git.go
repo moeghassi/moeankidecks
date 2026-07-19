@@ -42,18 +42,24 @@ func (p Publisher) Prepare(ctx context.Context) error {
 	return nil
 }
 
-func (p Publisher) Publish(ctx context.Context, relativePath, deckName string) error {
-	if _, err := p.output(ctx, "add", "--", relativePath); err != nil {
+func (p Publisher) Publish(ctx context.Context, relativePaths []string, deckName string) error {
+	if len(relativePaths) == 0 {
+		return fmt.Errorf("no publication paths provided")
+	}
+	pathArgs := append([]string{"add", "--"}, relativePaths...)
+	if _, err := p.output(ctx, pathArgs...); err != nil {
 		return err
 	}
-	cmd := exec.CommandContext(ctx, "git", "diff", "--cached", "--quiet", "--", relativePath)
+	diffArgs := append([]string{"diff", "--cached", "--quiet", "--"}, relativePaths...)
+	cmd := exec.CommandContext(ctx, "git", diffArgs...)
 	cmd.Dir = p.Root
 	if err := cmd.Run(); err == nil {
 		return nil
 	} else if exit, ok := err.(*exec.ExitError); !ok || exit.ExitCode() != 1 {
 		return fmt.Errorf("check staged snapshot: %w", err)
 	}
-	if _, err := p.output(ctx, "commit", "--only", "-m", "Publish deck: "+deckName, "--", relativePath); err != nil {
+	commitArgs := append([]string{"commit", "--only", "-m", "Publish deck: " + deckName, "--"}, relativePaths...)
+	if _, err := p.output(ctx, commitArgs...); err != nil {
 		return fmt.Errorf("commit snapshot: %w", err)
 	}
 	branch, err := p.output(ctx, "symbolic-ref", "--quiet", "--short", "HEAD")

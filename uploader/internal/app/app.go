@@ -11,6 +11,7 @@ import (
 	"github.com/moeghassi/moeankidecks/uploader/internal/anki"
 	"github.com/moeghassi/moeankidecks/uploader/internal/exporter"
 	"github.com/moeghassi/moeankidecks/uploader/internal/gitpub"
+	"github.com/moeghassi/moeankidecks/uploader/internal/manifest"
 	"github.com/moeghassi/moeankidecks/uploader/internal/storage"
 )
 
@@ -55,23 +56,43 @@ func Run(ctx context.Context, args []string, out io.Writer) error {
 	}
 	relativePath := filepath.Join("decks", deck.DeckID, "deck.json")
 	path := filepath.Join(root, relativePath)
+	manifestRelativePath := "manifest.json"
+	manifestPath := filepath.Join(root, manifestRelativePath)
 	if err := storage.CheckCollision(path, deckName); err != nil {
 		return err
 	}
-	same, err := storage.Same(path, data)
+	manifestData, err := manifest.Build(manifestPath, manifest.Entry{
+		DeckID: deck.DeckID, DeckName: deck.DeckName, Path: filepath.ToSlash(relativePath), NoteCount: len(deck.Notes),
+	}, data)
+	if err != nil {
+		return err
+	}
+	sameDeck, err := storage.Same(path, data)
 	if err != nil {
 		return fmt.Errorf("compare existing snapshot: %w", err)
 	}
-	if same {
+	sameManifest, err := storage.Same(manifestPath, manifestData)
+	if err != nil {
+		return fmt.Errorf("compare existing manifest: %w", err)
+	}
+	if sameDeck && sameManifest {
 		fmt.Fprintf(out, "Deck %q is unchanged (%d notes); no file or Git changes were made.\n", deckName, len(deck.Notes))
 		return nil
 	}
-	if err := storage.AtomicWrite(path, data); err != nil {
-		return err
+	if !sameDeck {
+		if err := storage.AtomicWrite(path, data); err != nil {
+			return err
+		}
+		fmt.Fprintf(out, "Wrote %d notes to %s\n", len(deck.Notes), path)
 	}
-	fmt.Fprintf(out, "Wrote %d notes to %s\n", len(deck.Notes), path)
+	if !sameManifest {
+		if err := storage.AtomicWrite(manifestPath, manifestData); err != nil {
+			return err
+		}
+		fmt.Fprintf(out, "Updated %s\n", manifestPath)
+	}
 	if *push {
-		if err := publisher.Publish(ctx, relativePath, deckName); err != nil {
+		if err := publisher.Publish(ctx, []string{relativePath, manifestRelativePath}, deckName); err != nil {
 			return err
 		}
 		fmt.Fprintf(out, "Committed and pushed deck %q.\n", deckName)
