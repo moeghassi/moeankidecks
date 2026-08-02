@@ -31,6 +31,15 @@
       ]
     },
     {
+      "id": "sha256:033184849a6c170fadb5167a7c8ecc6b0a1e4d3ab655b1bd1b6a18d5fda5f14e",
+      "front": "prendre",
+      "back": "to take",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:03c68c7281bdbd801898a7cd5dccb81f46ee06d7291f38b63d878f632b892f43",
       "front": "à gauche de",
       "back": "to the left of",
@@ -76,6 +85,24 @@
       ]
     },
     {
+      "id": "sha256:0639fc877dcfc26c9ef32d16d47dd15424fbe94d5a3bfb65703ae45fbc619d8f",
+      "front": "Tu t'habilles vite le matin.",
+      "back": "You get dressed quickly in the morning.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:06ded59d98c978832dbc446df99555902da62d54ab455906b516dbf25fe06ad7",
+      "front": "ça demande du temps",
+      "back": "it takes time",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:083db20446d440f2d638070cfafce6199af22ff25af79af3451b6589a7096580",
       "front": "Elle est très zen aujourd'hui.",
       "back": "She is very calm today.",
@@ -94,6 +121,15 @@
       ]
     },
     {
+      "id": "sha256:08ea868f13cc46adbdc1100b381a99c4630bf28d0e43133684be7916526b4fb1",
+      "front": "tous les mois",
+      "back": "every month",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:0a6ea74505ca1c4980d9809c0db8af94da31d52cfae2d8d648acae2b634e2448",
       "front": "<div>C'est une idée géniale.</div>\n<div></div>",
       "back": "It’s a great idea.",
@@ -109,6 +145,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:0b30e6d38eebec87b491cb29fcf04b49d73a73cf0b8df9926e17d683fcdb53f2",
+      "front": "Le tapis est sous la table.",
+      "back": "The rug is under the table.",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -157,12 +202,48 @@
       ]
     },
     {
+      "id": "sha256:110a01a1c40d757a5a36af48b4c6354dc9e94286810bfc5bc9d03a30217aec52",
+      "front": "les yeux",
+      "back": "eyes",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:132e3374f2da807a0ba223a19bbe151bb21c345917b8094da115700f3e978a56",
       "front": "jaune",
       "back": "yellow",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:133d44fd8f53d240afa781a71728e5737f0fb29c959bc485961ed817e7158cf0",
+      "front": "toujours",
+      "back": "always",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:144aac72c03ef3d002c0db9ae29d95b56a488c4cc828e4e5aa3a642f228fe49d",
+      "front": "J'aime la convivialité de ce café.",
+      "back": "I like the friendliness of this café.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:1488b8b66d14edd391b6b960664c4e324967120947ce4a0384d64638ffd03b9e",
+      "front": "Il neige en hiver.",
+      "back": "It snows in the winter.",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -184,6 +265,15 @@
       ]
     },
     {
+      "id": "sha256:17820f9e72192aca135d37f236cefb4b3eba70b3eb2af35d723607478be5c6a7",
+      "front": "reposé / reposée",
+      "back": "rested",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:17b501be4dafda214babcbe21a30224ef96ed2a303fb1ac553902a1c568c73e6",
       "front": "en haut",
       "back": "at the top",
@@ -202,9 +292,54 @@
       ]
     },
     {
+      "id": "sha256:1b0978db6bcfce43d32350dc368906e1c08bc26ab120aaf08449a270cb0b64ae",
+      "front": "s'occuper de",
+      "back": "to take care of",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:1bc5f6e942f0bc3e799e6624e9a01ba22822d336e4da579ea9360388072043ea",
+      "front": "La moquette est grise.",
+      "back": "The carpet is gray.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:1c7417d6015465bb0035ea3ab5c499f4af161fa614f673cc15d3387f0b0f0a21",
       "front": "Je parle et j'écris à la fois.",
       "back": "I speak and write at the same time.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:1cfcda3de4296122d9bdc14f0c0d7ad3e9df1c000b298b92e94f3727994a9103",
+      "front": "C'est le moins cher.",
+      "back": "It is the least expensive.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:1dd5ed16a55a7507be91a1d331979e5ea2f7ede111ed96641d0c0ede7d76f290",
+      "front": "prochain / prochaine",
+      "back": "next",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:1e180eb83d29fce9efbb25c6895357660069ad84fb0b81f51b9107548868a3ba",
+      "front": "J'aime la glace au chocolat.",
+      "back": "I like chocolate ice cream.",
       "reverse": true,
       "tags": [
         "unité4"
@@ -247,6 +382,33 @@
       ]
     },
     {
+      "id": "sha256:227fea6fcf1273ddf5f1d6a2dfd8489025c5754aa5e9b1acf5c9b59ff65f7c36",
+      "front": "tôt",
+      "back": "early",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:22ac911cd0f245417a0e564e81183de1cf6b324c7baeb2be4af5d3e2038dac06",
+      "front": "ensuite",
+      "back": "then",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:230a9cbfa4c256227653030e5802ebc22974ff87682d568a836defc5d4a2bde3",
+      "front": "Nous sommes presque prêts.",
+      "back": "We are almost ready.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:237ff8004b0e1713ccab72a92e47996f0fdef4a75a547552f44e1b9182f8f6cd",
       "front": "le siècle",
       "back": "century",
@@ -265,12 +427,48 @@
       ]
     },
     {
+      "id": "sha256:2486015138a510874bc48e7b47a53e71a97a085f549207086643d981752049ac",
+      "front": "Il est reposé. Elle est reposée.",
+      "back": "He is well rested. She is well rested.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:25426e8b2670085e2eb1e087c2a298196393bde5b5d5f019739475d51b7b7258",
+      "front": "devoir",
+      "back": "must",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:254f8eb0e42ef847dc8768eff5fdede0b77dcec94bfa5cb1d120303fd4d9ce31",
       "front": "Je travaille lundi.",
       "back": "I work on Monday.",
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:2604394cb5173a08bca116a72cefd80a213f3d85a2fd33ebc6b8f245c28105e5",
+      "front": "Tu viens avec nous ? Ça dépend.",
+      "back": "Are you coming with us? It depends.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:27a88b1ce39556a81e3729c67857fd025de36ea789e708abca53db66136bbf94",
+      "front": "Elle a les yeux bleus.",
+      "back": "She has blue eyes.",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -301,9 +499,36 @@
       ]
     },
     {
+      "id": "sha256:2ddc508bf73d08fc7bd74b5ffe2a770cafd5dbc27d2f454971586ed6607fcbe9",
+      "front": "durer",
+      "back": "to last",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:2e59a4b4671ee4051b5e9eaefd300321d96963cbb3e339922131fc9505f3553f",
+      "front": "Il se coiffe avant de partir.",
+      "back": "He combs his hair before leaving.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:33a9660d523b707d3ef7791dfe21c6f939dfb898572d8389d978111724aa3317",
       "front": "le midi",
       "back": "noon",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:358b6dd15c3fcdcf1b54655711efe8eedfdc0f64f49fa9959a8c64caddc543cb",
+      "front": "Nous prenons le petit déjeuner, ensuite nous partons au travail.",
+      "back": "We have breakfast, then we leave for work.",
       "reverse": true,
       "tags": [
         "unité5"
@@ -316,6 +541,24 @@
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:36af36faf57e5bd1b8f4972bb2511acae5f8b63f58bb055096cbd0dfbd52cb72",
+      "front": "Les fleurs arrivent au printemps.",
+      "back": "Flowers bloom in the spring.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:37973b9e3031ef1fa3d042c0df008a5a08ed416e5a595b982e85aa6d4dcba442",
+      "front": "Nous allons à la plage en été.",
+      "back": "We go to the beach in the summer.",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -334,6 +577,33 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:38e48441a0fc0bb0570b853f22dd0f24239f0b37ddfec5b7ed5b7ae58bc6d29b",
+      "front": "Il est fatigué. Elle est fatiguée.",
+      "back": "He is tired. She is tired.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:390c35075b01796f55345428ada861b4c80382ad0dc3ada4ea343340141dd584",
+      "front": "Je ne bois jamais de café.",
+      "back": "I never drink coffee.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:3999d2a8f66ebcac7b6f50142502c73f9cddefcd7b275e66b67d395abbd5be14",
+      "front": "Les gens sont très gentils ici.",
+      "back": "The people are very nice here.",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -407,12 +677,39 @@
       ]
     },
     {
+      "id": "sha256:4381479cb3fe53db40ddc6e81a5b84702330feeb078c66a0cadd9eaac25ad214",
+      "front": "l'automne",
+      "back": "autumn",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:441547cceb03f8afaa9e14119a176b8fbde90c19fed646adbcc7130b17b3dc2e",
       "front": "Cette maison est très accueillante.",
       "back": "This house is very welcoming.",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:46be0448a2fb2a7dbae7b3d4b4504d502ceb9df63adff3a742dd4e5ff97c42bd",
+      "front": "Il s'occupe de son chien tous les jours.",
+      "back": "He takes care of his dog every day.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:482af91265564d0bdafeb9a15e5130e94fe72763207efe1df72dee072b01feb2",
+      "front": "J'ai mal à l'œil.",
+      "back": "My eye hurts.",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -452,6 +749,33 @@
       ]
     },
     {
+      "id": "sha256:4ca8f98f0bc52ed9f345b4ee84afaf15ce25c15990080f1a8d82403a71e4cb34",
+      "front": "rentrer",
+      "back": "to return",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:4cd2f7bd03f3217949f7d5ddd3c26d63e3acb6919aa2093d1f49fe47291c671b",
+      "front": "s'habiller",
+      "back": "to get dressed",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:4e0c1914465c5a30d9c354837a7f55f0f226e76f42a076efbc90696c1674e0a2",
+      "front": "bleu foncé / bleue foncée",
+      "back": "dark blue",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:4e3fc442509cb9ba8b05ea3a725ec1d35f269185478e14e12782a90ce2fd1b47",
       "front": "Je bois du café le matin.",
       "back": "I drink coffee in the morning.",
@@ -476,6 +800,24 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:50e272a9b0b115fa8195b469d32c838e7dfc92a673d5a44295074e0048576758",
+      "front": "la moquette",
+      "back": "carpet",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:514d46c467e8224c4d9097cff030fc306e240c84216b352ebf413eed943b6cdb",
+      "front": "court / courte",
+      "back": "short",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -542,9 +884,108 @@
       ]
     },
     {
+      "id": "sha256:56a13834f2fc3741c15de6d7584afac712cf184afa4f227256570fb7fe01cac6",
+      "front": "Elle se maquille avant de sortir.",
+      "back": "She puts on makeup before going out.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:5794476ba0dc936cf2c20d15e46f386ddfcb655e1a33b8b2890ecfcf2bf6c35a",
+      "front": "en général",
+      "back": "in general",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:57a94890146530ba2a984f35993b8081e42a95dd1f0af8c65ae474a819da75d7",
+      "front": "Le film dure deux heures.",
+      "back": "The movie lasts two hours.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:58d18c882ff7182a4c0074bd7c04656c15852af55bee3095282cf2cd22be18e3",
+      "front": "Elle se réveille à six heures.",
+      "back": "She wakes up at six o'clock.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:5931d897b0716a6512c2eaa85b55b481226af1ab1f29c282cfefbe22677251a6",
+      "front": "Nous fêtons son anniversaire aujourd'hui.",
+      "back": "We are celebrating his birthday today.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:5990faab2dc707cbc9ccfcc7feb864cdd6aa40cd2eabde85efb9f7689b90427f",
       "front": "Je bois un verre d'eau.",
       "back": "I drink a glass of water.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:5b6da6593c3f85f2dfe7af12e4202ef8bdfd88c1f8afde83869c6a762cbd2157",
+      "front": "Le pull est bleu foncé. La robe est bleue foncée.",
+      "back": "The sweater is dark blue. The dress is dark blue.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:5cc690b58a29b96cffd825effdc9145ca3b3d8f42279f055f702d344c6512fbf",
+      "front": "Les feuilles tombent en automne.",
+      "back": "The leaves fall in the autumn.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:5d6f5af8038249146ada268b3ed6bb1852211f468921ff7961216b5c73a16ff7",
+      "front": "le repos",
+      "back": "rest",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:5d8c6505b719fda22f0c80cdfdcd6aff48045cb00f20be20d7861ae084100adf",
+      "front": "un œuf / des œufs",
+      "back": "egg / eggs",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:5dab427019cd441117992c57160141a9d20a15e189e3363fe27024da63e71e47",
+      "front": "J'aime surtout les fruits.",
+      "back": "I especially like fruit.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:5e0ef0f6b9ac9d281343bfa3355a12070e732e4a1379efbd59b659aff5b51920",
+      "front": "la glace",
+      "back": "ice cream",
       "reverse": true,
       "tags": [
         "unité4"
@@ -557,6 +998,33 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:5f707d3230f844d7be9ec21a62af38e4ebc22cb5a5258d8bc037fd514455fa95",
+      "front": "un jour par semaine",
+      "back": "one day a week (once a week)",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:5f8c00c0e9e6da82d8d68080114858b5946ef35e5a5e4c6c51da5633e7c1d561",
+      "front": "vert clair / verte claire",
+      "back": "light green",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:5f950780396200fc65700473a32a195a3f8171555adbae440057e5c6fd748ace",
+      "front": "après",
+      "back": "after",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -575,6 +1043,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:64799315d176a0725c56843e1b10148eac285f40d609fbcdbc9de23dc57399fc",
+      "front": "le rez-de-chaussée",
+      "back": "ground floor",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -605,9 +1082,45 @@
       ]
     },
     {
+      "id": "sha256:67fe4dd8fe6bc3934a5cdc5b2299e874ce6c3b0f7838c8ea54ee45576d7dafa4",
+      "front": "Je me couche tôt.",
+      "back": "I go to bed early.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:69d8d757f98314b1e41e962f72e8ccfc360d0d8e48fd18b149beebbc5a3f1647",
       "front": "samedi",
       "back": "Saturday",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:6a2fd81060796d6263909b37e812b709d031d2b8740f42c83598898c636c19aa",
+      "front": "les gens",
+      "back": "people",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:6a72fa2cd5405f8b316cc9bcc55efce058dd91a1b5c569c220bc0423819c416e",
+      "front": "Le chat est gris. La souris est grise.",
+      "back": "The cat is gray. The mouse is gray.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:6c7c0f4b79aa9c760e25913cf1754fcbf5c68dc92e74676f5032145ee6a5c2d2",
+      "front": "Vous sortez ce soir ?",
+      "back": "Are you going out this evening?",
       "reverse": true,
       "tags": [
         "unité5"
@@ -623,12 +1136,30 @@
       ]
     },
     {
+      "id": "sha256:6ea3d745b69dd03322e11660a1b6f6f36b21321450e7422091d275630fbe45f2",
+      "front": "Le cours commence à neuf heures.",
+      "back": "The class starts at nine o'clock.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:72e29155943eac167658b85ca3d1e4cd27b755b145909deb4da5ef40be5cacc3",
       "front": "vert / verte",
       "back": "green",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:7339619199fa9e956ecb4259e6cb14ecd2c649152922f75620f86377ac103530",
+      "front": "Je prends toujours mon café le matin.",
+      "back": "I always have my coffee in the morning.",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -668,6 +1199,24 @@
       ]
     },
     {
+      "id": "sha256:747878db00572b2bc4320961d048c32ac2401274e38465ed225e7d914ee66a53",
+      "front": "pareil / pareille",
+      "back": "same",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:7502264231fffcaedcf912905f3d6a814502835d812e93a716f78abb8a1e373d",
+      "front": "la convivialité",
+      "back": "friendliness",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:751fe250bf6025cc2e14ee4d94dc3285acd4baca1a9a803c07f92fc3caa6f797",
       "front": "marron",
       "back": "brown",
@@ -704,12 +1253,30 @@
       ]
     },
     {
+      "id": "sha256:7a9c5fed5d2530854c5d31b183bff661d802701da7d95ec7006d7e3166cb910f",
+      "front": "Je mange un œuf. Nous achetons des œufs.",
+      "back": "I eat an egg. We buy eggs.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:7b5051375dc92b4b62b0c3b8c18661cb96c06c5cb2afe06bc37999c16fc3b460",
       "front": "triste",
       "back": "sad",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:7b678372526fd658c68e574c8956d6ff9779246f3fc9d254f4f1f2c57fb4eb6c",
+      "front": "Elle rentre à la maison après le travail.",
+      "back": "She returns home after work.",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -722,12 +1289,48 @@
       ]
     },
     {
+      "id": "sha256:7e884fa36ceb41a52b2703ce37ef4940dba0ba597f503c8372fc39fe92c359a2",
+      "front": "la commode",
+      "back": "dresser/chest of drawers",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:7f362978ec2f53e2c83bef060929d0e338cbcba2b4fe76268714cd71ed01eb9c",
+      "front": "Je paie mon loyer tous les mois.",
+      "back": "I pay my rent every month.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:7f56bc2b293bb342c52bf68eb87ddae855e05fa7d00aa465dd47e6755e3b3c62",
+      "front": "se réveiller",
+      "back": "to wake up",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:808bdc036cae07a4fbb243dbcd91eab05a6fe537717ac3e564f233c1de537335",
       "front": "nul / nulle",
       "back": "bad",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:82472b3d73ea83c43b18e6db7e7536f5902329831ff4f9c44cfaa1e833edfdc2",
+      "front": "jamais",
+      "back": "never",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -767,6 +1370,15 @@
       ]
     },
     {
+      "id": "sha256:86f28a8aac6a462f1e129f1c5cfadd5fa82e57c7ef1fb69803db2c28d2ebf2a1",
+      "front": "Je regarde la télévision pendant le déjeuner.",
+      "back": "I watch tv during lunch.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:87ad020e3d40112dc2e66221266f0ff075feade7b2332b4706887bf5135e58f5",
       "front": "la cuisine",
       "back": "kitchen",
@@ -776,12 +1388,39 @@
       ]
     },
     {
+      "id": "sha256:88c18db33c19defa8994c33d62d8b32b520bb16d51f52775189f4c8fef44d254",
+      "front": "Ce travail est dur. Cette journée est dure.",
+      "back": "This work is hard. This day is hard.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:8adbc1e979676377ec825841002f1693bfc42050b009049d1f3a7bd5d909d315",
+      "front": "Mon sac est pareil. Ma veste est pareille.",
+      "back": "My bag is the same. My jacket is the same.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:8c47ee6821b5d8318f02887b0220bb98d4fb016bcb578837eba1b850aeceed2f",
       "front": "C’est un film génial.",
       "back": "<em>It’s a great movie.</em>",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:8cabb08a12ba464b7f05558ffaea95ba69d99afe930e5536fd5655b2b6ebc6df",
+      "front": "L'échelle est contre le mur.",
+      "back": "The ladder is against the wall.",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -809,6 +1448,24 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:932ebe8e2af278049fb3b79d8086f30c1299cccd94c55c11569137141dc770c4",
+      "front": "Le prochain train arrive à dix heures. La semaine prochaine, nous partons en vacances.",
+      "back": "The next train arrives at ten o'clock. Next week, we are going on vacation.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:94f4a2b6f3eff850d6ab79c498c3c84bd353c38ec2ae08dac4a84fe3d8d414c4",
+      "front": "Je dois partir maintenant.",
+      "back": "I must leave now.",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -875,6 +1532,33 @@
       ]
     },
     {
+      "id": "sha256:9d2fa2ae2c93aa4410f0181bbbccb57720f9c853b2c1b8f028530ea2b0909df4",
+      "front": "Mes vêtements sont dans la commode.",
+      "back": "My clothes are in the dresser.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:9df2127cbedd86b52a2bdd1c5d44a7e475420c3bd3211d8a28c330b2d70bac17",
+      "front": "surtout",
+      "back": "especially",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:9dfe7c673ca951d240c2a50c70be627ff0bdee5d5c33f6d2e4271d7b7f40970b",
+      "front": "Je ne mange pas sur le lieu de travail.",
+      "back": "I do not eat at work.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:9e8a5bf94a29c37a300ecd3c525db5805d26aecb93816de5cb46ac0f8f2bd674",
       "front": "Cette pièce est sombre.",
       "back": "This room is dark.",
@@ -911,6 +1595,24 @@
       ]
     },
     {
+      "id": "sha256:a3c2ad8f3889d6b720dfb448926386ddbea89db25b995c0026bc5965ddc0bda0",
+      "front": "à quelle heure?",
+      "back": "At what time",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:a4d8b2cfdfa3df446e59619902b5bae5d72bb6e4f90f14d33b5bd9806d15a6b0",
+      "front": "se lever",
+      "back": "to get up",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:a57eb8259fdc3dcdc93015c874915a0b1e65c2462d06bd8b9e16fe7aab485c50",
       "front": "Le loyer est de 900 euros, charges comprises.",
       "back": "The rent is 900 euros, utilities included.",
@@ -926,6 +1628,33 @@
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:a5a7f1e17d6cdc5c5258de2f8d9904f62fa9193c6191d5b9b36bd05013bf4217",
+      "front": "Je prends le bus parfois.",
+      "back": "I sometimes take the bus.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:a5bdb4b377421e79468ead468f7654a0aa81c577f2100016d89397bdc91223c4",
+      "front": "gris / grise",
+      "back": "gray",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:a62d93e16cb55b8a237ed9b63bb8fd9a90829ac6b3cf810c9757aa695d3c9cd1",
+      "front": "alors",
+      "back": "so, then",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -954,6 +1683,13 @@
       "tags": [
         "unité5"
       ]
+    },
+    {
+      "id": "sha256:a7f3374e65567a6aa8be7f27d86a2facd64d974340212bf1dbd5908dce017fac",
+      "front": "faire les courses",
+      "back": "to go shopping",
+      "reverse": true,
+      "tags": []
     },
     {
       "id": "sha256:a812fe735996cef726fad7f16079afc5b6b8e9960809acf6d763cc98494a6644",
@@ -1010,6 +1746,24 @@
       ]
     },
     {
+      "id": "sha256:aca26a21b5c31dcf50289f93c3bb84f5a59b0f132ce266ade07e3cc60ee0a14d",
+      "front": "Je suis en repos la semaine prochaine.",
+      "back": "I'm taking a break next week.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:aceb108927ef28be65aa95e599968218a8285f198a53994f67928c7de152cba0",
+      "front": "ça dépend",
+      "back": "it depends",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:ae5333d13d2d4c8a531b63d8ca4373d35c17d25cd0cda433d19164341a2b3b64",
       "front": "le garage",
       "back": "garage",
@@ -1046,6 +1800,24 @@
       ]
     },
     {
+      "id": "sha256:b17868b2cde92e0297bc796c7044a05f4b0f382f668d02418589085570c6696c",
+      "front": "dur / dure",
+      "back": "hard",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:b1de491e5e5303c569d11b1beb0c51c2cee20c2160b7ab274e2f6eaf49ba8291",
+      "front": "l'hiver",
+      "back": "winter",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:b2dc2298ed5229483ca85cc90d9b79d17466f262709878feafb8e24f87794196",
       "front": "Elle parle mieux français maintenant.",
       "back": "She speaks French better now.",
@@ -1055,9 +1827,54 @@
       ]
     },
     {
+      "id": "sha256:b41a3094617ed90268147da89a633259537d609f8fd3bb48b018d3fd42ce511b",
+      "front": "Apprendre le français demande du temps.",
+      "back": "Learning French takes time.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:b58c493f96b7073d923c84e5664800bf2b87b7af7b56a8c4a0090788eb05acdc",
+      "front": "fatigué / fatiguée",
+      "back": "tired",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:b5ac0de4d19b4f27466f2f98638e39d86cb307d25a76d1ca013fa8172c15fce0",
+      "front": "fêter",
+      "back": "to celebrate",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:b7c4fb5dfddbf85860dcc1f8999ba1dac6dc8ca803b19ea422a22728f9f7cdb9",
       "front": "l'ascenseur",
       "back": "elevator",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:b7c640eb1b362d5bbe3ef962990d3a5958ba6b008359cf86e505d44fac0f46d9",
+      "front": "est-ce que vous prenez le bus ?",
+      "back": "Do you take the bus?",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:b97823a039e3b895dc43825047fbcd132fe634d68f78b1b4f6ef655cfa4d9d9c",
+      "front": "vous ne pouvez pas ranger vos affaires.",
+      "back": "You cannot put your things away.",
       "reverse": true,
       "tags": [
         "unité4"
@@ -1088,6 +1905,51 @@
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:bbaffc1a7d3cce08b94136ec511cf140f99a971511b776891e3b856e11c0859e",
+      "front": "partir",
+      "back": "to leave",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:bc340907bb0e273e9bd8623e787ff393a7224897bfc724c64d255f40b3cea4c6",
+      "front": "pendant",
+      "back": "during",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:bd029d42773d81206da884bbfd7ba03e266b35114ea265d741d81c757df96513",
+      "front": "le plus",
+      "back": "the most",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:bd9bca784610b50c927612a3788c69a0f6d85cd8fed22bd66a9bc0785bac91bf",
+      "front": "se coiffer",
+      "back": "to comb one's hair",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:bf79b9aff7e9d8e423625443752eb9e89e70d0b77f8788acb9db0fe2475a5baf",
+      "front": "l'été",
+      "back": "summer",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -1163,6 +2025,15 @@
       ]
     },
     {
+      "id": "sha256:c591455174c506b8fb0c43fb9c3be3cb48123ef09892d7afa4e64e7c15e05ec5",
+      "front": "pouvoir",
+      "back": "can",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:c8a46d421adf29dd4eee975246a7e1facecedbde761a98cc9fb79ce15903bf66",
       "front": "favoriser",
       "back": "to favour, promote",
@@ -1178,6 +2049,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:c9d109748172692617f5507533c981eb75db09d902e8b171b01c5248c1f37849",
+      "front": "tard",
+      "back": "late",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -1199,6 +2079,15 @@
       ]
     },
     {
+      "id": "sha256:cc15b35fd859d11d9feb1f53009227e55da337358df33d0d8b6d57d063ebe411",
+      "front": "presque",
+      "back": "almost",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:ccf5690e26aff71e529ec1a4892a401395495a251aaaea11f9083c007d6abf2d",
       "front": "Je prends le petit déjeuner à sept heures.",
       "back": "I have breakfast at seven o'clock.",
@@ -1214,6 +2103,24 @@
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:cdac9a942f0fd27584dee79a0adb748dc7c0686732f047cd81fcfebcd8c516ac",
+      "front": "J'habite loin de mon travail.",
+      "back": "I live far from my work.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:ce1f1d732bd29a5431870336283ba7ba0efe5e026f631f35562de75261afac67",
+      "front": "Ils se lèvent à sept heures.",
+      "back": "They get up at seven o'clock.",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -1235,6 +2142,15 @@
       ]
     },
     {
+      "id": "sha256:cf146cd9db545b8e101259a62e72d96bf53dc0e7525fd083354f438199f42c78",
+      "front": "La cuisine est au rez-de-chaussée.",
+      "back": "The kitchen is on the ground floor.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:d0299f4728d37e60bfec8fef35f0bd84a84eae80d4eacf72a3d027d89fa4f148",
       "front": "derrière",
       "back": "behind",
@@ -1244,12 +2160,39 @@
       ]
     },
     {
+      "id": "sha256:d172738c259d98b510460fe7cbe3a9a4eba30941e7e1f5ae522cdcc899e20e93",
+      "front": "l'œil",
+      "back": "eye",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:d3cafe05ce95be6806c8fe73887d71d0a7e47d283007ac866e487bee605e5f15",
+      "front": "Le film est court. La réunion est courte.",
+      "back": "The movie is short. The meeting is short.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:d3e29493b15ec42ee8a903c634b3ed83cca0aa20b3ed46643eaf8e0d4dd34286",
       "front": "le bureau",
       "back": "office",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:d49e2b82451b02992b1201de25500c8af0b1c8866b0b06c4f751741da88eba0f",
+      "front": "toute la journée",
+      "back": "all day",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -1278,6 +2221,33 @@
       ]
     },
     {
+      "id": "sha256:d56babb135c2290601b1ab90ea09d76837bf984173c2aafa7ad8e95237364b8e",
+      "front": "J'habite près de la gare.",
+      "back": "I live near the train station.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:d58d1deff50626973e9e39e133b0cfabe49dd1588bdd7c8f215d0b8412ca6f75",
+      "front": "le printemps",
+      "back": "spring",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:d6029f73567a1e6ff917a9ae65b03fe808a429a5eb10bd5c69c7ab6625f0b809",
+      "front": "contre",
+      "back": "against",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:d656bf8b0bd97cc76dfda989aa2d967225f9b9d3ad63cd0a048f57c6e1795e33",
       "front": "mardi",
       "back": "Tuesday",
@@ -1296,12 +2266,30 @@
       ]
     },
     {
+      "id": "sha256:d9d739e28eee400a56d15f0cd5177c50c7ab16c7e5c58f6a30be1795b1a6c317",
+      "front": "C'est le plus grand appartement.",
+      "back": "It is the biggest apartment.",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:da2ce754bf97fc23d830acd74a8c83bff32cfa95a5f9b37fdc15219b67cad199",
       "front": "mettre",
       "back": "to put",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:da634ea76f2abcc294f61892030097c39474827b13eb7fc9c7cf2ed851b93bef",
+      "front": "<span style=\"color: rgb(68, 71, 70); background-color: rgb(240, 244, 249);\">à bientôt</span>",
+      "back": "see you soon",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -1386,9 +2374,36 @@
       ]
     },
     {
+      "id": "sha256:e5071025db9f038abf8c37742bee1ebdb3d57ce2389aff1a71461d13704ec4d2",
+      "front": "tous les quinze jours",
+      "back": "every two weeks",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:e55d1bba4158be4a8916c461fab04de2af974d233d44afed6222d98ae522d388",
+      "front": "commencer",
+      "back": "to start",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:e5fa7ec58851ff11193ce5a37c4bf31277ecf54bf2f07f266b74bacf927f9c62",
       "front": "à la fois",
       "back": "at the same time",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:e7b4cf92ff74d24f3eb7d5ef27d2434192969e7ac0cf7344742011da1e2e8ba1",
+      "front": "il faut mettre les plantes dans les coins de la pièce",
+      "back": "You must place the plants in the corners of the room.",
       "reverse": true,
       "tags": [
         "unité4"
@@ -1422,6 +2437,42 @@
       ]
     },
     {
+      "id": "sha256:e9748ea09a073debbfb3fb922c22c6fe11a2bc8686d5dd58e358372281d9f672",
+      "front": "Pourquoi rentres-tu si tard ?",
+      "back": "Why are you returning so late?",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:ea58adcd419a3f3ce2863f83bf225279af513065be1f742452b93c6866d4a57d",
+      "front": "sortir",
+      "back": "to go out",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:eb4b1a73719eb9de9c43028f1b9f2c32824a69b000954ae3536aa9cb9040f923",
+      "front": "Le mur est vert clair. La porte est verte claire.",
+      "back": "The wall is light green. The door is light green.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
+      "id": "sha256:ed939d187cfd41f9b0f0a99f4236d4cd9df388b7d530d2145ee6898dbc8593f9",
+      "front": "il ne faut pas placer le bureau en face d'un mur",
+      "back": "one must not place the desk facing a wall.",
+      "reverse": true,
+      "tags": [
+        "unité4"
+      ]
+    },
+    {
       "id": "sha256:ee4fe4bf8c83ec6f6a6d8d84be12c97fed8ff8e42baaed19653621c11a393116",
       "front": "noir / noire",
       "back": "black",
@@ -1431,12 +2482,39 @@
       ]
     },
     {
+      "id": "sha256:ef1e525e8978f9b99896fee448b55793fe7637adc6f30bd49068472f7e255e0e",
+      "front": "se maquiller",
+      "back": "to put on makeup",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
+      "id": "sha256:ef2db3e0f53438f45534b6a039485100ff3ef20514cd603b24938284029f6542",
+      "front": "avant",
+      "back": "before",
+      "reverse": true,
+      "tags": [
+        "unité5"
+      ]
+    },
+    {
       "id": "sha256:ef684a4c3e2f712f6d1fe80841c4ed7455c56f67a28fbde68b6b693a19c5a8b0",
       "front": "la maison",
       "back": "house",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:f0eca9221899e7886f5920e7eed2d3410ab965df2834a84270cae9cbf00981a5",
+      "front": "le tapis",
+      "back": "rug",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -1464,6 +2542,15 @@
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:f2e4c77da8c6b6930ce7d0cf656fac6f8c0472450c1eabeb0271f52a4ebe8228",
+      "front": "tous les week-ends",
+      "back": "every weekend",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -1500,6 +2587,15 @@
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:f5a7bd80be4b265d68bab7e301dceca1bed38dc5489a221c5bd8fa476342af68",
+      "front": "le moins",
+      "back": "the least",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     },
     {
@@ -1599,6 +2695,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:ff2fef8a703940e6dac87522822ff509ef3725a8937829ab2127ff225a0d805c",
+      "front": "parfois",
+      "back": "sometimes",
+      "reverse": true,
+      "tags": [
+        "unité5"
       ]
     }
   ]
