@@ -13,12 +13,30 @@
       ]
     },
     {
+      "id": "sha256:0131ecb2ad24dd084ebcd18a0563b884d483ff44da9530ec2e1582e8ed873ddd",
+      "front": "expliquer",
+      "back": "to explain",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:02c1ef95839967d223fbe21a162a32c636004c97724eb2dea28e40d12774d60c",
       "front": "les étagères",
       "back": "shelves",
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:02ea3035cf092c4efe5085576d096125da2c9a66feb1f9fdda92d44e8153119a",
+      "front": "nouveau / nouvelle",
+      "back": "new",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -85,6 +103,15 @@
       ]
     },
     {
+      "id": "sha256:057b7049a74f9c6b07e60b9b5c4357e1697ca51f3489a2a2ae727c7a4aa033f1",
+      "front": "courir",
+      "back": "to run",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:0639fc877dcfc26c9ef32d16d47dd15424fbe94d5a3bfb65703ae45fbc619d8f",
       "front": "Tu t'habilles vite le matin.",
       "back": "You get dressed quickly in the morning.",
@@ -103,12 +130,39 @@
       ]
     },
     {
+      "id": "sha256:08107ba62531993606531959745048e791ad370a900f61ce058feb76669134a7",
+      "front": "aller au théâtre",
+      "back": "to go to the theater",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:083db20446d440f2d638070cfafce6199af22ff25af79af3451b6589a7096580",
       "front": "Elle est très zen aujourd'hui.",
       "back": "She is very calm today.",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:08581605861e0cb0b3108cb3e76bd010b346825cca54e6af476e75b07e296590",
+      "front": "gourmand /&nbsp;gourmande",
+      "back": "foodie",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
+      "id": "sha256:087b4d21e8f00631a0c768f36b85c76306b210d983c35d5dc5db57bf874b0b7c",
+      "front": "prendre des cours",
+      "back": "to take classes",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -127,6 +181,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:0a1bf1a4a4d1350cd5a4ee64d800f3b08235b94614fd1f67f1ff6014cf298bf1",
+      "front": "Le soleil jaune",
+      "back": "The yellow sun",
+      "reverse": true,
+      "tags": [
+        "unité4"
       ]
     },
     {
@@ -211,6 +274,24 @@
       ]
     },
     {
+      "id": "sha256:11532845d57cf41abd03ec723e75d944f3d81fbec1186ba258136d5a0401d684",
+      "front": "oublier",
+      "back": "to forger",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
+      "id": "sha256:12a25ef4c09a72b4ddbb87758d3f006f354221291e8472418f3397c7b440a1b1",
+      "front": "Ils courent dans le parc le dimanche.",
+      "back": "They run in the park on Sundays.",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:132e3374f2da807a0ba223a19bbe151bb21c345917b8094da115700f3e978a56",
       "front": "jaune",
       "back": "yellow",
@@ -229,6 +310,15 @@
       ]
     },
     {
+      "id": "sha256:13f7a943dca05156777141463cfbf0927074eafdd217875c1f52214b3a2dc448",
+      "front": "on peut ...",
+      "back": "we can ...",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:144aac72c03ef3d002c0db9ae29d95b56a488c4cc828e4e5aa3a642f228fe49d",
       "front": "J'aime la convivialité de ce café.",
       "back": "I like the friendliness of this café.",
@@ -244,6 +334,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:150c8bd381e800d68b1780acab24fb8df6577c865eaf3a4aebed79ab12b7d8f2",
+      "front": "nager",
+      "back": "to swim",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -298,6 +397,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:1b45bcd9e397b634cf73b55470c3a5eb73df29e4816c500c398642e385ca57a9",
+      "front": "Pouvez-vous expliquer la question ?",
+      "back": "Can you explain the question?",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -364,21 +472,21 @@
       ]
     },
     {
-      "id": "sha256:1e545c04b41f95379e6ec8a15ba9b3018f7f0e3093a646e86bee3f0d143144ab",
-      "front": "Le soleil jaune",
-      "back": "The sun is yellow.",
-      "reverse": true,
-      "tags": [
-        "unité4"
-      ]
-    },
-    {
       "id": "sha256:1e5c2619b758b8f3732d0d2504ddc8763e8fc6f971c4d740586e86ed84ad1f76",
       "front": "Les verres sont dans le placard.",
       "back": "The glasses are in the cupboard.",
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:21a0ccfcd9445c5350c54a1a3bf996fe171de5271874b2351c46f2c0e816c7b9",
+      "front": "aller à la plage",
+      "back": "to go to the beach",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -463,12 +571,30 @@
       ]
     },
     {
+      "id": "sha256:271853c57041491c4b9fb5d76f427164fb08272b1ad034bb982c9e5b734a06f7",
+      "front": "rêver",
+      "back": "to dream",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:27a88b1ce39556a81e3729c67857fd025de36ea789e708abca53db66136bbf94",
       "front": "Elle a les yeux bleus.",
       "back": "She has blue eyes.",
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:28214b50161523167b1af457b7a6812c50b26c260d76ee3cc8151d96860f3bbd",
+      "front": "C'est une bonne idée",
+      "back": "that's a good idea.",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -481,12 +607,30 @@
       ]
     },
     {
+      "id": "sha256:29408cd1b7101b6569ea7514492c52d4fff9c74815eca3e20b14eb9ccc10ed98",
+      "front": "faire de la peinture",
+      "back": "to paint",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:2ab2fd41d8c030ea293d0a6ceb25eb3bd260f6a129f606e8c5c85cc2c8e4f991",
       "front": "le placard",
       "back": "cupboard/closet",
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:2b7d1c1fabe7e7eef38e62e05f68ceaa4ee0efbd0ac18dc0c8e10e48e22d1fda",
+      "front": "C'est le meilleur restaurant du quartier.",
+      "back": "It's the best restaurant in the neighborhood.",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -517,6 +661,15 @@
       ]
     },
     {
+      "id": "sha256:3059c8aabd4fb1734073c2ac0a038dfb57ecfb37ca4c7066fc5ad7d3866a4b4a",
+      "front": "communiquer",
+      "back": "to communicate",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:33a9660d523b707d3ef7791dfe21c6f939dfb898572d8389d978111724aa3317",
       "front": "le midi",
       "back": "noon",
@@ -532,6 +685,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:36a11795893ca8f1fdc276fcf2cc19a4e112e321b9f337239e035bb1f90aa477",
+      "front": "accepter",
+      "back": "to accpet",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -553,12 +715,30 @@
       ]
     },
     {
+      "id": "sha256:375785d1269a87eb8b56b7a99b1fb368753d454aa7fc7aac8728191384991f0c",
+      "front": "visiter des musées",
+      "back": "to visit museums",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:37973b9e3031ef1fa3d042c0df008a5a08ed416e5a595b982e85aa6d4dcba442",
       "front": "Nous allons à la plage en été.",
       "back": "We go to the beach in the summer.",
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:3828f4e43e91370f90cfb2a1cb0acf0b81c05351ec0ed6b7484b11bd35f1964a",
+      "front": "Il est un peu radin avec son argent.",
+      "back": "He is a little stingy with his money.",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -577,6 +757,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:38a9bc796448496132dd12c78e9b195b195f0ec644ecaaae17b80985fee2f9cb",
+      "front": "jouer aux cartes",
+      "back": "to play cards",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -607,6 +796,24 @@
       ]
     },
     {
+      "id": "sha256:39bc9df21408fd1fe8cd78a6321138e3e4dd98fb39a0e219851a1efe4d09f592",
+      "front": "Il rêve de voyager en France.",
+      "back": "He dreams of traveling to France.",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
+      "id": "sha256:39de48d4fa797c5b79b602b92ad82c7569903f01a4c9e4bef6f3bb12500e9e61",
+      "front": "avec plaisir",
+      "back": "with pleasure",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:3a4d03bdcc14fc545042743846b2d929331d22e7f02a37e014802dbafe800100",
       "front": "le salon",
       "back": "living room",
@@ -625,11 +832,29 @@
       ]
     },
     {
+      "id": "sha256:3c04e8bf27f67bef38dd79752e914ae9f7a80e4e7ecc9f47b0b7f9360cf11c31",
+      "front": "radin / radine",
+      "back": "stingy / cheap",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:3cf63f54042f28f09f8a069b09485e9c816ca15f132fe3e129418abb85cc182a",
       "front": "le&nbsp;<span style=\"font-weight: 700;\">vocabulaire</span>",
       "back": "<span style=\"font-weight: 700;\">vocabulary</span>",
       "reverse": true,
       "tags": []
+    },
+    {
+      "id": "sha256:3e1036a1ae48dc593beb5b41160ed2aecf3a2f69277fc91a1d0fae1d2de4b009",
+      "front": "Ils se promènent dans le parc.",
+      "back": "They are taking a walk in the park.",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
     },
     {
       "id": "sha256:3e1b622fda9957bd72a945196c00d7b54ed10fa24a3c964056178e840ed78971",
@@ -665,6 +890,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:41446884faa5b9a65571d0b9ca25d1e47c984a91b1360d02a5c7ad4bbba3fc2f",
+      "front": "se promener",
+      "back": "to go for a walk / to take a walk",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -710,6 +944,15 @@
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:491ace0c86e78396aafd86eedf3fe40e0f4be06f047748c4e8f7f3fb99e0bf8f",
+      "front": "trop",
+      "back": "too much / too / too many",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -821,6 +1064,15 @@
       ]
     },
     {
+      "id": "sha256:52822628726d5b526df5f9391c4f96965700313be202616e0e5a3f1251f4b88c",
+      "front": "se préparer",
+      "back": "to get ready / to prepare oneself",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:52bf8b19cdac3390fd08dd81435f4950764bf7d02c8f28ebfa592da9d2c8d7f0",
       "front": "Nous mangeons à midi.",
       "back": "We eat at noon.",
@@ -893,6 +1145,15 @@
       ]
     },
     {
+      "id": "sha256:574c38ed4cbe95c60a8b3b1d239bf14c2746cea121a52fd0bb5330210203792d",
+      "front": "Vous vous informez sur les horaires du train.",
+      "back": "You find out about the train schedule.",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:5794476ba0dc936cf2c20d15e46f386ddfcb655e1a33b8b2890ecfcf2bf6c35a",
       "front": "en général",
       "back": "in general",
@@ -908,6 +1169,24 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:58b6be4b8b9d8d492c00fecb43ebc3b3f3b183d3843ace10adbe134e8ce8fb53",
+      "front": "pourqoui pas?",
+      "back": "why not?",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
+      "id": "sha256:58d17cc209dc2717b1863a713c3b25d24f50be5ce5aea51b30289f71805f6f42",
+      "front": "intéressé /&nbsp;intéressée",
+      "back": "interesting",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -953,6 +1232,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:5cf758e7ff403fc0065c23020e8de8051a19eddcc8cbcde878b4f818c2921cd0",
+      "front": "paresseux / paresseuse",
+      "back": "lazy",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -1034,6 +1322,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:60b829a2225ee1eb39e6dc67d516a8b0acc46cc3c93d2e0ce921bfa61e33f0f2",
+      "front": "égoïste",
+      "back": "selfish",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -1136,6 +1433,15 @@
       ]
     },
     {
+      "id": "sha256:6e8bc39cb91eac5df5a989580d3510e552c2927aa56d1dc259bb93f3c8955c6e",
+      "front": "Mon chien est parfois paresseux.",
+      "back": "My dog is sometimes lazy.",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:6ea3d745b69dd03322e11660a1b6f6f36b21321450e7422091d275630fbe45f2",
       "front": "Le cours commence à neuf heures.",
       "back": "The class starts at nine o'clock.",
@@ -1160,6 +1466,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:734e9cbfdcc282968d55b98f399a871332fd92b7c3f4a87910b14172f967d1c4",
+      "front": "réseaux sociaux",
+      "back": "social media",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -1205,6 +1520,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:74e06ec3bb694c7c70bf43892c734a43a440eb5fa53c227eed589551cda2fe61",
+      "front": "Ça te dit de sortir ce soir ?",
+      "back": "Do you feel like going out tonight?",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -1280,12 +1604,30 @@
       ]
     },
     {
+      "id": "sha256:7b8510f75f699baf014f8f778cb02a60506a34fdba57338e153bbc0b88311a90",
+      "front": "faire des achats en ligne",
+      "back": "to shop online",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:7c891f5eb3c503a4b385d70437420243af037be139312e78b9ce690c0eb64955",
       "front": "Il y a environ dix personnes ici.",
       "back": "There are about ten people here.",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:7d72ec927cbf54fc73401b5ccfd7169e5f3182728e73bfe465d3fd71ec082cfc",
+      "front": "aller en boîte de nuit",
+      "back": "to go clubbing",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -1325,6 +1667,22 @@
       ]
     },
     {
+      "id": "sha256:820c534242430d28f70bd9af849667599224ccf3304bb72a7534231d1743ae77",
+      "front": "jouer aux échecs",
+      "back": "to play chess",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
+      "id": "sha256:821aa88bb1c7042cbf07c97b9b0d1cc0d0a0fe002b085b6d31740101dd1ab27b",
+      "front": "négocier",
+      "back": "to negotiate",
+      "reverse": true,
+      "tags": []
+    },
+    {
       "id": "sha256:82472b3d73ea83c43b18e6db7e7536f5902329831ff4f9c44cfaa1e833edfdc2",
       "front": "jamais",
       "back": "never",
@@ -1349,6 +1707,24 @@
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:84565a1a65ed07614b03a5d16924ed4f233894b1d7e4382451efa3cc68bef536",
+      "front": "Il y a des fleurs partout.",
+      "back": "There are flowers everywhere.",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
+      "id": "sha256:852f768ba3c06b78ead733b567a57f68d0722be29e31e4cd56d3e6fac2f33e7d",
+      "front": "Elle consacre beaucoup de temps à son travail.",
+      "back": "She devotes a lot of time to her work.",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -1406,6 +1782,15 @@
       ]
     },
     {
+      "id": "sha256:8c3461ba55e57e0a0a0a0fbab6bd4d653c6c0de8d28216b0dc6f2a7d0cef8df8",
+      "front": "Nous nous préparons pour le dîner.",
+      "back": "We are getting ready for dinner.",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:8c47ee6821b5d8318f02887b0220bb98d4fb016bcb578837eba1b850aeceed2f",
       "front": "C’est un film génial.",
       "back": "<em>It’s a great movie.</em>",
@@ -1421,6 +1806,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:8d8270be330d509e172be5891aeea087fb82c758d999e7399e5bc5282e3191c8",
+      "front": "jouer d'un instrument",
+      "back": "to play an instrument",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -1451,6 +1845,24 @@
       ]
     },
     {
+      "id": "sha256:913fce1be6f92aa20bcb4c33df95be9e757e28b94166372f36141b6c6a23aa95",
+      "front": "aller au restaurant",
+      "back": "to go to a restaurant",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
+      "id": "sha256:9270e0d573d7454beea7661ad2920965d097822c477df161b8c386b315cef74a",
+      "front": "s'informer",
+      "back": "to get information / to find out",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:932ebe8e2af278049fb3b79d8086f30c1299cccd94c55c11569137141dc770c4",
       "front": "Le prochain train arrive à dix heures. La semaine prochaine, nous partons en vacances.",
       "back": "The next train arrives at ten o'clock. Next week, we are going on vacation.",
@@ -1478,6 +1890,15 @@
       ]
     },
     {
+      "id": "sha256:9617e9304f7398b390697a41120ff20532ac4e1fb5642af0588dca15925e58ed",
+      "front": "proposer",
+      "back": "to propose",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:967b944578ab6e394389e11fea59aeb15f97f7f6b1012a99d09771b8ba3d64d7",
       "front": "This house is ugly.",
       "back": "Cette maison est laide.",
@@ -1493,6 +1914,24 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:9a93b9133e767ca306ffd070c8f53039ed2e4c3f144a37cd90144484a84d6635",
+      "front": "Il y a trop de monde ici.",
+      "back": "There are too many people here.",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
+      "id": "sha256:9b1ec848ec388f428fb6b93318bec2470745fdc39e0b47371caa926c0559f8ce",
+      "front": "sortir le soir",
+      "back": "to go out in the everning",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -1559,6 +1998,15 @@
       ]
     },
     {
+      "id": "sha256:9e30105145651acb3e44ad69b180e6984700c646bce3652b33f3600024f9a863",
+      "front": "loger",
+      "back": "to stay / to lodge",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:9e8a5bf94a29c37a300ecd3c525db5805d26aecb93816de5cb46ac0f8f2bd674",
       "front": "Cette pièce est sombre.",
       "back": "This room is dark.",
@@ -1601,6 +2049,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:a4588420bb9d96b3d82c49ef60a1fc063e2be33f69813386df25e688a180a672",
+      "front": "faire des recherches",
+      "back": "to do research",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -1773,12 +2230,30 @@
       ]
     },
     {
+      "id": "sha256:b083fc0bad62957581f9f147e9a11d73364c8d28ccc3cf544bb40bd9e4c77202",
+      "front": "refuser",
+      "back": "to refuse",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:b0a4a846e89ba32030c2a035d09ce6d35ffda8d4f4f2e7d56e8d788f1bdd2a8f",
       "front": "Le chat est en bas de l'escalier.",
       "back": "The cat is at the bottom of the stairs.",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:b0af7e578f6f74f135aeb0659eb334325785a1696d3ebffeeb1807c352cca946",
+      "front": "Est-ce que tu veux prendre un café?",
+      "back": "Do you want to have a coffee?",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -1815,6 +2290,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:b236b3d4054da65aaf3d74c5a3760c8f484345471e1c1fbdeefe0eaf7ebc1cb4",
+      "front": "partager",
+      "back": "to share",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -1872,6 +2356,15 @@
       ]
     },
     {
+      "id": "sha256:b9167e7d5e412442f719cdd9524c7d8c13ad59f06899882373b0dfadeb7774ed",
+      "front": "faire de la photo",
+      "back": "to do photography",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:b97823a039e3b895dc43825047fbcd132fe634d68f78b1b4f6ef655cfa4d9d9c",
       "front": "vous ne pouvez pas ranger vos affaires.",
       "back": "You cannot put your things away.",
@@ -1926,6 +2419,24 @@
       ]
     },
     {
+      "id": "sha256:bc68e6523e75746f27df3bf5a2d94093855db8d8a8fee33256c5af24a9ddc4c5",
+      "front": "faire du shopping",
+      "back": "to go shopping",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
+      "id": "sha256:bcee4ff13918a2ea4ecafc6bbe593f55411f7d55d7dcb3a049751ced31977ff3",
+      "front": "faire du dessin",
+      "back": "to draw",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:bd029d42773d81206da884bbfd7ba03e266b35114ea265d741d81c757df96513",
       "front": "le plus",
       "back": "the most",
@@ -1941,6 +2452,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:bf6e9b4ad8c9bc9135c75be7ea03eca268ac12a542ed5eb2b104ee0a945850ae",
+      "front": "consacrer",
+      "back": "to devote / to spend (time)",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -1971,12 +2491,30 @@
       ]
     },
     {
+      "id": "sha256:c11dfded0c4d4ef4699808ad25052fd2a1b13eeca30832ec550b4c5a75484314",
+      "front": "Elle nage tous les samedis.",
+      "back": "She swims every Saturday.",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:c12c15e31de3c6570557d7c791f177f8787f3128f2b69d84ae35e0b338e33196",
       "front": "le déjeuner",
       "back": "lunch",
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:c252198db02d09a124a8dfdc0ac5358406efbb05d19f488272719fab1d779826",
+      "front": "meilleur / meilleure",
+      "back": "better / best",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -1995,6 +2533,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:c44f1f2e28cd8d1fe30f4b90a2d02e3be76b21ab3950c8f5c169ebdd8265f022",
+      "front": "partout",
+      "back": "everywhere",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -2034,6 +2581,15 @@
       ]
     },
     {
+      "id": "sha256:c6320a1bf7abb92872373d4bde733acb8f3c0c8b8ad866244bb4ad4623d5821b",
+      "front": "regarder une série",
+      "back": "to watch a series",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:c8a46d421adf29dd4eee975246a7e1facecedbde761a98cc9fb79ce15903bf66",
       "front": "favoriser",
       "back": "to favour, promote",
@@ -2049,6 +2605,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:c97d9ca1d6a8897e41b7df427d340ff1ba8e28eee9a0508ec6a5f7a16c05b045",
+      "front": "faire la fête",
+      "back": "to party",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -2076,6 +2641,15 @@
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:cba0bc4d21a567d1179ed5bcd31f268d5e65acf03d169d4b7d5bd4008068e93a",
+      "front": "franc / franche",
+      "back": "frank, honest",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -2248,12 +2822,30 @@
       ]
     },
     {
+      "id": "sha256:d62bbbae604799d6964c678e98c0abc08d8e1624fb2443049f7bc8ec2680c794",
+      "front": "jouer en ligne",
+      "back": "to play online",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:d656bf8b0bd97cc76dfda989aa2d967225f9b9d3ad63cd0a048f57c6e1795e33",
       "front": "mardi",
       "back": "Tuesday",
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:d8a96203fe597ac24df3fa8ecfa8e9cda0f5d610418d886d5e8df5f42160b348",
+      "front": "Nous logeons dans un petit hôtel.",
+      "back": "We are staying in a small hotel.",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -2302,6 +2894,15 @@
       ]
     },
     {
+      "id": "sha256:dc8ff1565d1eacfbfa3a2ad8ad2a6e81569378280173c66afe22c2a65230ad91",
+      "front": "faire du vélo",
+      "back": "to go biking",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:ddff3986df0d547a59daef861ea519c58986b862720adbbd60e8d837220682c8",
       "front": "lundi",
       "back": "Monday",
@@ -2338,6 +2939,15 @@
       ]
     },
     {
+      "id": "sha256:e0b6b5afbb3f0aad9ef34ca56b533fcf910fc811daae1ad30f3d951faa517cee",
+      "front": "aller au cinéma",
+      "back": "to go to the movies",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:e16ba3f501fc125490ca000f7add80340d8ee6ea61f985aff92866d6ea6f1a34",
       "front": "la chambre",
       "back": "bedroom",
@@ -2371,6 +2981,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:e4dbe488470b14d114bc12c36c96cd2dfccc94b9a514fef1b12e8541942af3d3",
+      "front": "télécharger",
+      "back": "to download",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -2428,6 +3047,15 @@
       ]
     },
     {
+      "id": "sha256:e9035997c5bcc66e287ce9d9bb196a825eaa9618c694db8712beb52d0a5d9d9f",
+      "front": "d'accord",
+      "back": "ok",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:e95947f95b5d0161e7a131a6fb2a6373c8b230387902f7bd20ed23bea0696f09",
       "front": "facilement",
       "back": "easily",
@@ -2473,12 +3101,30 @@
       ]
     },
     {
+      "id": "sha256:edc9503f9793055d7cc60ad5c30d3eaad68778f2719f9933095137992fccc437",
+      "front": "organiser",
+      "back": "to organizer",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:ee4fe4bf8c83ec6f6a6d8d84be12c97fed8ff8e42baaed19653621c11a393116",
       "front": "noir / noire",
       "back": "black",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:ee73d1759457f7071bcd6dad117f6094fb3336c35a3952a94a8fcc69454fee06",
+      "front": "ça ne me dit rien",
+      "back": "i dont feel like it",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     },
     {
@@ -2689,6 +3335,15 @@
       ]
     },
     {
+      "id": "sha256:fe0e6622cacd2247b8bd7a14bf72ead380852f288e6f0fc4017ac236ad479753",
+      "front": "jouer aux jeux vidéo",
+      "back": "to play video games",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:fe626fb525e024f7b023606880d7608ae841204c041521353a6aae4c05e21ffb",
       "front": "Je comprends facilement cette règle.",
       "back": "I understand this rule easily.",
@@ -2704,6 +3359,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:ffa9f57e08448ec9bd2329929b82d5870d669077cfb38780ddd86528d39414b4",
+      "front": "volontiers",
+      "back": "i'd be glad to!",
+      "reverse": true,
+      "tags": [
+        "unité6"
       ]
     }
   ]
