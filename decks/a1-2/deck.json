@@ -22,6 +22,15 @@
       ]
     },
     {
+      "id": "sha256:028c6f54eb74f6045303e0fe20e04b439174bc8e32e4629276ffe9dcce21fb61",
+      "front": "distribuer",
+      "back": "to distribute",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:02c1ef95839967d223fbe21a162a32c636004c97724eb2dea28e40d12774d60c",
       "front": "les étagères",
       "back": "shelves",
@@ -55,6 +64,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:03c1074fc85eb6affb1a55811e907acc91c78e18a5cade491a4dd9ba3a961766",
+      "front": "D'abord, prends le bus. Ensuite, prends le métro.",
+      "back": "First, take the bus. Then, take the subway.",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -238,6 +256,15 @@
       ]
     },
     {
+      "id": "sha256:0e0a69563b033d88b8a94b0c61703ecb960cd0737903f3f1144dc9259c9ffcfc",
+      "front": "Nous prenons l'autoroute pour aller à Lyon.",
+      "back": "We take the highway to go to Lyon.",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:0ea0c27538e0d9b950c904425c63b39cc4960c3a07d2b02568cf7544307f4d08",
       "front": "le lave-vaisselle",
       "back": "dishwasher",
@@ -256,12 +283,39 @@
       ]
     },
     {
+      "id": "sha256:0f3cc05ddd269bdfc9c3e6a4b2d4c676c2be9e5deab3b0063d58844f1f784746",
+      "front": "Prenez à droite après l'église.",
+      "back": "Take a right after the church.",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:0f490daf3f7fc7bb5adb21816717b425dc7372774dc6a2128ebb04fe2f781319",
       "front": "Le meuble est dans la chambre.",
       "back": "The piece of furniture is in the bedroom.",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:0fb8ea21baf56bd8384c827cd425fd5b35a1cb1d24f4ccaf73ad509200f0f5f7",
+      "front": "Je vais te conseiller ce restaurant.",
+      "back": "I'm going to recommend this restaurant to you.",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
+      "id": "sha256:10c210c0ab04b7b38318c5a3ff05538aaba5cb22e8ae02feb1630e3cae76a89c",
+      "front": "Nous commandons une pizza pour le dîner",
+      "back": "We order a pizza for dinner",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -274,12 +328,12 @@
       ]
     },
     {
-      "id": "sha256:11532845d57cf41abd03ec723e75d944f3d81fbec1186ba258136d5a0401d684",
-      "front": "oublier",
-      "back": "to forger",
+      "id": "sha256:1165cafed846fb07eaf2ce4d585c4be9ea8180b8700e258cdd423ec080492638",
+      "front": "tourner / prendre à gauche",
+      "back": "to turn / take a left",
       "reverse": true,
       "tags": [
-        "unité6"
+        "unité7"
       ]
     },
     {
@@ -307,6 +361,24 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:134f9b93a312d1710458116e07ca1287cc24c670ed890523c24518ea68fe7ddd",
+      "front": "la boulangerie",
+      "back": "bakery",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
+      "id": "sha256:13bb34bf2b9f5a5c62e892a596cd1bb14f1679058f4e7585b782eceef7ea1036",
+      "front": "accompagner",
+      "back": "to accompany / to go with",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -379,6 +451,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:19a4227d8ac6937b48f1b85d5a0d7096f01e5f65bc3691f77236a5511974d2ee",
+      "front": "le marché",
+      "back": "market",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -481,6 +562,15 @@
       ]
     },
     {
+      "id": "sha256:20482dcf5dbf84b384b356c9dd5a31fec1cb9e28ac6caf02aa0cea2db5f6d3a4",
+      "front": "le magasin de chaussures",
+      "back": "shoe shop",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:21a0ccfcd9445c5350c54a1a3bf996fe171de5271874b2351c46f2c0e816c7b9",
       "front": "aller à la plage",
       "back": "to go to the beach",
@@ -535,12 +625,39 @@
       ]
     },
     {
+      "id": "sha256:246ceed123296151eef9d331b4697d6d67ed067257d4f2d83243bec4eeed5cb3",
+      "front": "longer",
+      "back": "to walk along / to go along",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:2486015138a510874bc48e7b47a53e71a97a085f549207086643d981752049ac",
       "front": "Il est reposé. Elle est reposée.",
       "back": "He is well rested. She is well rested.",
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:24b82231f116ff1fe77368866e48f52be02b58d6f43f98d2578e1d7e3ffc7a42",
+      "front": "Inventons une nouvelle histoire !",
+      "back": "Let's invent a new story!",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
+      "id": "sha256:250c656b3aee936dd5d609fe8f10cb427e83f154b510c34dbd1243604bcc9424",
+      "front": "traverser",
+      "back": "to cross",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -607,6 +724,15 @@
       ]
     },
     {
+      "id": "sha256:2917d3a9332fec8b54bf4ae9933cc9682719905ee8b57d2fb21522cc5758bd0c",
+      "front": "Nous allons au marché le samedi matin.",
+      "back": "We go to the market on Saturday morning.",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:29408cd1b7101b6569ea7514492c52d4fff9c74815eca3e20b14eb9ccc10ed98",
       "front": "faire de la peinture",
       "back": "to paint",
@@ -616,12 +742,39 @@
       ]
     },
     {
+      "id": "sha256:2a62a283c79e36796b036e317e9ea5ef1720e984d94e39eb56f971883d5bb48d",
+      "front": "Allez tout droit, puis tournez à gauche.",
+      "back": "Go straight ahead, then turn left.",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
+      "id": "sha256:2a8c969c5f9faa190f2b790f33a17e6e18ed06bef3308f1f3b1c56ddc4cd5acb",
+      "front": "Vous traversez la rue au feu vert.",
+      "back": "You cross the street at the green light.",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:2ab2fd41d8c030ea293d0a6ceb25eb3bd260f6a129f606e8c5c85cc2c8e4f991",
       "front": "le placard",
       "back": "cupboard/closet",
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:2b78274d6f2762679df405cb9932ad9ac8f800e31afbce9703a70ad4d2c65b75",
+      "front": "Il met ses chaussettes avant ses chaussures.",
+      "back": "He puts on his socks before his shoes.",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -643,12 +796,48 @@
       ]
     },
     {
+      "id": "sha256:2c5f15f43ba790238b67350ce8aa3dad25ee823ae88d0108b133a99f7c4672cc",
+      "front": "les chaussettes",
+      "back": "socks",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
+      "id": "sha256:2d5d1ab8896578526ec1a5be03b5c217d1031f05dda8b43228919646a4320a4d",
+      "front": "Elle calcule le prix total.",
+      "back": "She calculates the total price.",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
+      "id": "sha256:2d761c2e4d5bdda8655060ab9b85054a2f69264f04245ac7ee1ff138379d19f3",
+      "front": "la station-service",
+      "back": "gas station",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:2ddc508bf73d08fc7bd74b5ffe2a770cafd5dbc27d2f454971586ed6607fcbe9",
       "front": "durer",
       "back": "to last",
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:2df851fd87c5194502d5fb818f4b70ef082bf747d844e61dee39d3acb31220f9",
+      "front": "Introduisez les informations dans ce formulaire !",
+      "back": "Enter the information into this form!",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -676,6 +865,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:349ea15b0e78ddc81025d661c9a09b7bcdf993060ff5498658c457dbf722a501",
+      "front": "hôtel de ville",
+      "back": "town hall",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -715,6 +913,15 @@
       ]
     },
     {
+      "id": "sha256:36f2598e21d78d61e1f7680d67a943dde1518477fd4ba6a5a9ba6f84d49a33c3",
+      "front": "Vous allez passer une agréable journée.",
+      "back": "You are going to have a pleasant day.",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:375785d1269a87eb8b56b7a99b1fb368753d454aa7fc7aac8728191384991f0c",
       "front": "visiter des musées",
       "back": "to visit museums",
@@ -748,6 +955,15 @@
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:386ac810c3e25c6e150dc00a9a3b1a2a2f93b6e13b6a70d26e3ad8c207a37414",
+      "front": "Nous longeons la rivière.",
+      "back": "We walk along the river.",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -823,6 +1039,24 @@
       ]
     },
     {
+      "id": "sha256:3a7a4de381954515d2f0b04ee79d9d22ff2a354d659eaf7bfd3e02c8836bf2a5",
+      "front": "Distribuez ces documents aux étudiants !",
+      "back": "Distribute these documents to the students!",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
+      "id": "sha256:3b2e92ca71c68fa29abac4cb048c52bcad14df4adba9444d48d1a2978959e39b",
+      "front": "Ils prennent le bateau pour aller sur l'île.",
+      "back": "They take the boat to go to the island.",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:3bff0677e7f1687201a1aed10ef77a3c0f7693bf4c85d6b3e949018d6f648b18",
       "front": "Le chat est derrière la porte.",
       "back": "The cat is behind the door.",
@@ -838,6 +1072,15 @@
       "reverse": true,
       "tags": [
         "unité6"
+      ]
+    },
+    {
+      "id": "sha256:3c7c10c20d9848bf845919a29a4efc58aea531c73a9a1e0851f77173e8d3e26b",
+      "front": "d'abord",
+      "back": "first / first of all",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -911,6 +1154,15 @@
       ]
     },
     {
+      "id": "sha256:424f07861d1b918b62b3e0b8b6f6c47744b36072466c4149f8e2e34bf55451eb",
+      "front": "intéressé /&nbsp;intéressée par",
+      "back": "interested in",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:4381479cb3fe53db40ddc6e81a5b84702330feeb078c66a0cadd9eaac25ad214",
       "front": "l'automne",
       "back": "autumn",
@@ -929,12 +1181,30 @@
       ]
     },
     {
+      "id": "sha256:469c89c6e8c604b9996e9b443eefd87f53999baaed6ea59cefae5f3dc7d461c9",
+      "front": "Portez ces chaussures avec cette robe !",
+      "back": "Wear these shoes with this dress!",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:46be0448a2fb2a7dbae7b3d4b4504d502ceb9df63adff3a742dd4e5ff97c42bd",
       "front": "Il s'occupe de son chien tous les jours.",
       "back": "He takes care of his dog every day.",
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:478c2ed5b99602e0067759d57d4f69e6df1b32d57c3f0f01ba686f3d5cce6bd9",
+      "front": "produire",
+      "back": "to produce",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -1010,6 +1280,24 @@
       ]
     },
     {
+      "id": "sha256:4d357bcbddaaebe86032bc1ff1f900c2b153a3a6bd82ce222c191640bccb60c5",
+      "front": "l'église (f)",
+      "back": "church",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
+      "id": "sha256:4d5930de606e60c9b103361e6a696086bf3eaf96dcec0c7a8d344f2f245afdef",
+      "front": "Comment est-ce que cette machine fonctionne ?",
+      "back": "How does this machine work?",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:4e0c1914465c5a30d9c354837a7f55f0f226e76f42a076efbc90696c1674e0a2",
       "front": "bleu foncé / bleue foncée",
       "back": "dark blue",
@@ -1043,6 +1331,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:50b6b247cc146d7a6d9085c5493818047f2eb26fa079506ff1099a7d8c3a4c4c",
+      "front": "Il porte une chemise blanche.",
+      "back": "He is wearing a white shirt.",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -1181,15 +1478,6 @@
       ]
     },
     {
-      "id": "sha256:58d17cc209dc2717b1863a713c3b25d24f50be5ce5aea51b30289f71805f6f42",
-      "front": "intéressé /&nbsp;intéressée",
-      "back": "interesting",
-      "reverse": true,
-      "tags": [
-        "unité6"
-      ]
-    },
-    {
       "id": "sha256:58d18c882ff7182a4c0074bd7c04656c15852af55bee3095282cf2cd22be18e3",
       "front": "Elle se réveille à six heures.",
       "back": "She wakes up at six o'clock.",
@@ -1223,6 +1511,15 @@
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:5bce1ff95ae4f35a9c5816e22affe66cacaaa0a309094b47842e75ad3609ba6c",
+      "front": "le pull",
+      "back": "sweater",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -1361,12 +1658,30 @@
       ]
     },
     {
+      "id": "sha256:66f08bf73b41715086436a50f1ee168978585ca33dbdde40c11f4e5c1ee9761d",
+      "front": "la chemise",
+      "back": "shirt / dress shirt",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:67241e8a47d23430cd236ba7a2abb72120e36234cb78f01275972c0faa67f809",
       "front": "Où sont mes affaires ?",
       "back": "Where are my things?",
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:67799a1d73c85b7673a2d3ac4181ecfd94a15721ff82f09050f6726d431fca2f",
+      "front": "la trottinette",
+      "back": "scooter",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -1451,6 +1766,33 @@
       ]
     },
     {
+      "id": "sha256:6edc4c4d86c136989b90763f2c75df47bde57d6ee3a82e61b84fc515d92d8443",
+      "front": "Envoie-moi ce document, s'il te plaît !",
+      "back": "Send me that document, please!",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
+      "id": "sha256:6ef9243dc3726965b3e4f4168599b8e211f7310d626432507b264712ec62a0b6",
+      "front": "porter",
+      "back": "to wear / to carry",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
+      "id": "sha256:707fd7d95d406d9753da1a98509d4f29701da98fcf4a8fdd30c0df4243119a60",
+      "front": "Je l'accompagne à la gare.",
+      "back": "I accompany her/him to the train station.",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:72e29155943eac167658b85ca3d1e4cd27b755b145909deb4da5ef40be5cacc3",
       "front": "vert / verte",
       "back": "green",
@@ -1493,6 +1835,24 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:73df9f78734063675e28eb3166fde019e1f34f038b6b17425f5d388120683803",
+      "front": "calculer",
+      "back": "to calculate",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
+      "id": "sha256:73e75a4af48d2df97b3d87f73e7140a767826d292e045f2cd7685f6dc72ed538",
+      "front": "l'autoroute",
+      "back": "highway / motorway",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -1631,6 +1991,15 @@
       ]
     },
     {
+      "id": "sha256:7e73b4cb13fe520950a63b641cc6326323bf6c0fce998860c98feac0c6b60fdb",
+      "front": "les chaussures",
+      "back": "shoes",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:7e884fa36ceb41a52b2703ce37ef4940dba0ba597f503c8372fc39fe92c359a2",
       "front": "la commode",
       "back": "dresser/chest of drawers",
@@ -1664,6 +2033,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:81e545e0d5e5f5daa5e7ce1e116701ceed3f886d96f77e60e2c45c04b8886823",
+      "front": "la grande surface",
+      "back": "department store",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -1755,6 +2133,15 @@
       ]
     },
     {
+      "id": "sha256:874be28aacccbbfe44cf080a1e86b17f47f50e3e46bf954c4368120c3b376cb9",
+      "front": "Nous prenons l'avion pour aller en France.",
+      "back": "We are taking the plane to go to France.",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:87ad020e3d40112dc2e66221266f0ff075feade7b2332b4706887bf5135e58f5",
       "front": "la cuisine",
       "back": "kitchen",
@@ -1827,6 +2214,15 @@
       ]
     },
     {
+      "id": "sha256:8f7701dc53b0c6cf2d6b61acb5afb1a738e2e924894354303595be2a8a1a34d0",
+      "front": "conseiller",
+      "back": "to advise / to recommend",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:90dd56bd19b4874c8dffa7015420e4bbfbd7571f25264d30df00b2ea822c66d4",
       "front": "sombre",
       "back": "dark",
@@ -1872,6 +2268,15 @@
       ]
     },
     {
+      "id": "sha256:93d28a938b1448f0f04e04be2f8a0a031b2e210a98266ed7c60a62fa60fbcb2a",
+      "front": "inventer",
+      "back": "to invent",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:94f4a2b6f3eff850d6ab79c498c3c84bd353c38ec2ae08dac4a84fe3d8d414c4",
       "front": "Je dois partir maintenant.",
       "back": "I must leave now.",
@@ -1896,6 +2301,15 @@
       "reverse": true,
       "tags": [
         "unité6"
+      ]
+    },
+    {
+      "id": "sha256:9659f1851a319ff7583236886f953aedd2d7ac01cd5d812101eb81d514096d74",
+      "front": "Cette usine va produire plus de voitures l'année prochaine.",
+      "back": "This factory is going to produce more cars next year.",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -1932,6 +2346,15 @@
       "reverse": true,
       "tags": [
         "unité6"
+      ]
+    },
+    {
+      "id": "sha256:9b328f01f21d5ea27f8f7b19a3f2e2a447acc4ac8c9b54c6a7669d7dd4eadf44",
+      "front": "Je vais récupérer ma voiture demain.",
+      "back": "I'm going to pick up my car tomorrow.",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -2016,6 +2439,15 @@
       ]
     },
     {
+      "id": "sha256:9e9010dc1f808b32703f4922cfb811e6cfd2028c7ab60180704b14dc7ad97d26",
+      "front": "l'avion",
+      "back": "airplane / plane",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:9f9b9f122e1bf7057e3452681a9d0d5368b3fa3bbce7f05286cbccb1d4c0213a",
       "front": "Mon appartement est spacieux. Ma maison est spacieuse.",
       "back": "My apartment is spacious. My house is spacious.",
@@ -2031,6 +2463,24 @@
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:a0939da01512b42477211988e79349c0326c23cf245bf9b50cd7b309f9631321",
+      "front": "la voiture",
+      "back": "car",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
+      "id": "sha256:a26e6f0747d1600c0c8161df45a62585a702f7b2de64745bcc7e4bea431da339",
+      "front": "L'église est au centre du village.",
+      "back": "The church is in the center of the village.",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -2176,6 +2626,15 @@
       ]
     },
     {
+      "id": "sha256:aa226f9d65ab32ff7b29364bc39fe21f91042c3cb05e9784edf1649c21919cb6",
+      "front": "Elle met ses chaussures avant de sortir.",
+      "back": "She puts on her shoes before going out.",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:aa8aa1d08a994063326e058d8634f2c33c618a5cec744303f4ce43c7e45f87c5",
       "front": "bruyant",
       "back": "noisy",
@@ -2203,6 +2662,15 @@
       ]
     },
     {
+      "id": "sha256:ac3dab5402297de74617e27b0b5e42503963bc89d0844c5b6a9b0b2ce04451ef",
+      "front": "le bateau / les bateaux",
+      "back": "boat / boats",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:aca26a21b5c31dcf50289f93c3bb84f5a59b0f132ce266ade07e3cc60ee0a14d",
       "front": "Je suis en repos la semaine prochaine.",
       "back": "I'm taking a break next week.",
@@ -2227,6 +2695,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:afb32d14f9658fa9a11fdd45f60316cdb8887dae3c6b28cf5c6930f5e1b0df93",
+      "front": "aller tout droit",
+      "back": "to go straight ahead",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -2536,6 +3013,15 @@
       ]
     },
     {
+      "id": "sha256:c3ebbb0e69f538b840dfeb921c5b74c60cad8269986ba08fe7c34e4052c0b9e8",
+      "front": "introduire",
+      "back": "to introduce / to insert",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:c44f1f2e28cd8d1fe30f4b90a2d02e3be76b21ab3950c8f5c169ebdd8265f022",
       "front": "partout",
       "back": "everywhere",
@@ -2608,6 +3094,15 @@
       ]
     },
     {
+      "id": "sha256:c94f6851d56e7184d368833f259ded43f0add8f4255493db0f761c02a60353a1",
+      "front": "oublier",
+      "back": "to forget",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
       "id": "sha256:c97d9ca1d6a8897e41b7df427d340ff1ba8e28eee9a0508ec6a5f7a16c05b045",
       "front": "faire la fête",
       "back": "to party",
@@ -2659,6 +3154,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:cc602a1a4a0fb54a9c9b8c5c427493e1eb1482c5cae8c3daca4f6248c9746686",
+      "front": "Tournez à gauche au prochain carrefour.",
+      "back": "Turn left at the next intersection.",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -2831,6 +3335,15 @@
       ]
     },
     {
+      "id": "sha256:d641452c69151591065af5d5ffad535d36e5feca113088baac4135a7045f4d53",
+      "front": "récupérer",
+      "back": "to get back / to retrieve / to pick up",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:d656bf8b0bd97cc76dfda989aa2d967225f9b9d3ad63cd0a048f57c6e1795e33",
       "front": "mardi",
       "back": "Tuesday",
@@ -2963,6 +3476,24 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:e19ef69671abc15d7a9be8a00cc0789811235cbe31ec7a3bd761f6b4c56906c5",
+      "front": "ça ne me dit rien",
+      "back": "<strong>“That doesn't ring a bell.”</strong>",
+      "reverse": true,
+      "tags": [
+        "unité6"
+      ]
+    },
+    {
+      "id": "sha256:e1c940cd8c864869b07be4654201f3df0eba54792646e7da4e08392c5ad22b0e",
+      "front": "Nous consommons moins d'eau en été.",
+      "back": "We consume less water in the summer.",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -3119,15 +3650,6 @@
       ]
     },
     {
-      "id": "sha256:ee73d1759457f7071bcd6dad117f6094fb3336c35a3952a94a8fcc69454fee06",
-      "front": "ça ne me dit rien",
-      "back": "i dont feel like it",
-      "reverse": true,
-      "tags": [
-        "unité6"
-      ]
-    },
-    {
       "id": "sha256:ef1e525e8978f9b99896fee448b55793fe7637adc6f30bd49068472f7e255e0e",
       "front": "se maquiller",
       "back": "to put on makeup",
@@ -3173,12 +3695,30 @@
       ]
     },
     {
+      "id": "sha256:f20add8dd69b536b2472d67abdea60bcb9478f9ef6ceb17895b5c745f789add2",
+      "front": "envoyer",
+      "back": "to send",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:f21450fec8778e408082d08d8bba177aa1a21dbd778665452eac0e09b124f61b",
       "front": "le mur",
       "back": "wall",
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:f27fbfcbe4233031c9dd68b4ab8321f0de72e94355f19aebee87f12cecef63af",
+      "front": "consommer",
+      "back": "to consume",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -3197,6 +3737,15 @@
       "reverse": true,
       "tags": [
         "unité5"
+      ]
+    },
+    {
+      "id": "sha256:f2f20334560d5ed2557f996e606d023cb814af71f8ba773c420b205f45487003",
+      "front": "tourner / prendre à droite",
+      "back": "to turn / take a right",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -3245,6 +3794,15 @@
       ]
     },
     {
+      "id": "sha256:f6361b0d5a7cae134bb53139225182732e5d35a62affe92441272a28250ed959",
+      "front": "agréable",
+      "back": "pleasant / enjoyable",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
       "id": "sha256:f7effca74c821c6b0a8c467e777569ffb01ac3253138ef46521af233d2dce263",
       "front": "devant",
       "back": "in front of",
@@ -3278,6 +3836,24 @@
       "reverse": true,
       "tags": [
         "unité4"
+      ]
+    },
+    {
+      "id": "sha256:f9414f5bd07367a3f5b84c29a047ddadefe10805c281a0664ff53025075ddafa",
+      "front": "fonctionner",
+      "back": "to work / to function",
+      "reverse": true,
+      "tags": [
+        "unité7"
+      ]
+    },
+    {
+      "id": "sha256:f9773cd99064bf0617a8d9d6676c95ccd5df3e571756479a751ef922eacb648d",
+      "front": "la boucherie",
+      "back": "butcher shop",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
@@ -3350,6 +3926,15 @@
       "reverse": true,
       "tags": [
         "Logement"
+      ]
+    },
+    {
+      "id": "sha256:fea2088332a4e5aac218f083b91b92f7741b76a4f81500a1a0be0e780db9e2b1",
+      "front": "le magasin de vêtements",
+      "back": "clothes shop",
+      "reverse": true,
+      "tags": [
+        "unité7"
       ]
     },
     {
